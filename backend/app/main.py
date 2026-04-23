@@ -505,7 +505,7 @@ def estimate_intervention_cost(seg: SegmentIn, level: str) -> float:
 load_ml_model()
 
 
-@app.post("/predict-ml")
+@app.post("/api/predict-ml")
 def predict_ml(block: dict = Body(...)):
     """
     Predict ML risk for a modified block (scenario simulator)
@@ -533,7 +533,7 @@ def predict_ml(block: dict = Body(...)):
         "ml_explanation": explanation,
     }
 
-@app.post("/priority-engine", response_model=PriorityResponse)
+@app.post("/api/priority-engine", response_model=PriorityResponse)
 def run_priority_engine(payload: PriorityRequest) -> PriorityResponse:
     """
     Ward-level prioritisation engine.
@@ -596,7 +596,7 @@ def run_priority_engine(payload: PriorityRequest) -> PriorityResponse:
         segments=out_segments,
     )
 
-@app.post("/budget-optimizer", response_model=BudgetResponse)
+@app.post("/api/budget-optimizer", response_model=BudgetResponse)
 def run_budget_optimizer(payload: BudgetRequest) -> BudgetResponse:
     """
     Select the best segments that can be funded within the available budget.
@@ -663,12 +663,12 @@ def run_budget_optimizer(payload: BudgetRequest) -> BudgetResponse:
         summary=summary,
         segments=selected_segments,
     )
-@app.get("/health")
+@app.get("/api/health")
 def health_check():
     return {"status": "ok", "message": "AURaMP backend is running"}
 
 
-@app.get("/blocks")
+@app.get("/api/blocks")
 def get_blocks():
     """
     Returns block data with:
@@ -702,7 +702,7 @@ def get_blocks():
     return {"blocks": enriched}
 
 
-@app.get("/model/feature-importance")
+@app.get("/api/model/feature-importance")
 def get_feature_importance():
     """
     Returns feature importance values from the trained ML model.

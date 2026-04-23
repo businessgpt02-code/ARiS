@@ -145,7 +145,8 @@ useEffect(() => {
   // ---------------- ML prediction for new drawn segment ----------------
   const handlePrediction = async (formData) => {
   try {
-    const res = await fetch("http://127.0.0.1:8000/predict-ml", {
+    const backendUrl = import.meta.env.DEV ? "http://127.0.0.1:8000/api" : "/api";
+    const res = await fetch(`${backendUrl}/predict-ml`, {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify(formData),
