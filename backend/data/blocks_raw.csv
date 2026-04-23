@@ -1,0 +1,156 @@
+id,name,lat_start,lng_start,lat_end,lng_end,sidewalk_width_m,slope_percent,has_curb_ramp,traffic_level,lighting_quality,surface_quality
+block_1,Near CST Station,18.9398,72.8355,18.9405,72.8362,0.9,9,no,high,poor,broken
+block_2,Marine Lines,18.9491,72.8277,18.9497,72.8285,1.3,5,yes,medium,good,smooth
+block_3,Churchgate,18.9353,72.8302,18.9359,72.8310,1.8,3,yes,low,good,smooth
+block_4,Kalbadevi Street,18.9490,72.8360,18.9496,72.8368,0.7,7,no,high,poor,broken
+block_5,Fort Area Lane,18.9325,72.8350,18.9332,72.8357,1.1,6,no,medium,good,uneven
+block_6,Hampankatta Link A,12.8704,74.8426,12.8711,74.8434,1.1,6,no,high,poor,uneven
+block_7,Hampankatta Link B,12.8712,74.8436,12.8719,74.8444,1.5,3,yes,medium,good,smooth
+block_8,Central Market Road A,12.8691,74.8468,12.8698,74.8476,0.9,7,no,high,poor,broken
+block_9,Central Market Road B,12.8699,74.8478,12.8706,74.8486,1.2,5,no,medium,good,uneven
+block_10,Clock Tower Approach A,12.8708,74.8490,12.8715,74.8498,1.6,3,yes,medium,good,smooth
+block_11,Clock Tower Approach B,12.8716,74.8500,12.8723,74.8508,1.0,8,no,high,poor,broken
+block_12,Ladyhill Road A,12.8931,74.8418,12.8939,74.8425,1.4,4,yes,medium,good,smooth
+block_13,Ladyhill Road B,12.8940,74.8427,12.8948,74.8434,1.0,6,no,medium,good,uneven
+block_14,Kadri Park Lane A,12.8886,74.8572,12.8893,74.8580,1.7,2,yes,low,good,smooth
+block_15,Kadri Park Lane B,12.8894,74.8582,12.8901,74.8590,1.3,5,yes,medium,good,uneven
+block_16,Kadri Temple Road A,12.8827,74.8603,12.8834,74.8611,1.1,7,no,high,poor,broken
+block_17,Kadri Temple Road B,12.8835,74.8613,12.8842,74.8621,1.2,6,no,medium,poor,uneven
+block_18,Bejai Cross Road A,12.8850,74.8459,12.8857,74.8467,1.4,4,yes,medium,good,smooth
+block_19,Bejai Cross Road B,12.8858,74.8469,12.8865,74.8477,1.0,8,no,high,poor,broken
+block_20,KS Rao Road A,12.8684,74.8551,12.8691,74.8559,1.5,3,yes,high,good,uneven
+block_21,KS Rao Road B,12.8692,74.8561,12.8699,74.8569,1.1,6,no,high,poor,broken
+block_22,Bunder Port Road A,12.8672,74.8316,12.8679,74.8324,0.8,7,no,high,poor,broken
+block_23,Bunder Port Road B,12.8680,74.8326,12.8687,74.8334,1.0,6,no,high,poor,uneven
+block_24,Car Street North A,12.8731,74.8396,12.8738,74.8404,1.2,5,no,medium,good,uneven
+block_25,Car Street North B,12.8739,74.8406,12.8746,74.8414,1.6,2,yes,medium,good,smooth
+block_26,Car Street South A,12.8718,74.8389,12.8725,74.8397,1.0,7,no,high,poor,broken
+block_27,Car Street South B,12.8726,74.8399,12.8733,74.8407,1.3,5,yes,medium,good,uneven
+block_28,Balmatta Road A,12.8720,74.8534,12.8727,74.8542,1.4,4,yes,high,good,uneven
+block_29,Balmatta Road B,12.8728,74.8544,12.8735,74.8552,1.1,6,no,high,poor,broken
+block_30,Balmatta Road C,12.8736,74.8554,12.8743,74.8562,1.7,2,yes,medium,good,smooth
+block_31,Kankanady Road A,12.8576,74.8510,12.8583,74.8518,1.0,8,no,high,poor,broken
+block_32,Kankanady Road B,12.8584,74.8520,12.8591,74.8528,1.2,6,no,high,poor,uneven
+block_33,Kankanady Road C,12.8592,74.8530,12.8599,74.8538,1.5,3,yes,medium,good,smooth
+block_34,Sturrock Road A,12.8738,74.8520,12.8745,74.8528,1.3,5,yes,medium,good,uneven
+block_35,Sturrock Road B,12.8746,74.8530,12.8753,74.8538,1.0,7,no,high,poor,broken
+block_36,MG Road A,12.8709,74.8481,12.8716,74.8489,1.4,4,yes,high,good,uneven
+block_37,MG Road B,12.8717,74.8491,12.8724,74.8499,1.1,6,no,high,poor,broken
+block_38,MG Road C,12.8725,74.8501,12.8732,74.8509,1.6,3,yes,medium,good,smooth
+block_39,Urwa Store Road A,12.8938,74.8329,12.8946,74.8336,1.0,8,no,high,poor,broken
+block_40,Urwa Store Road B,12.8947,74.8338,12.8955,74.8345,1.2,6,no,medium,poor,uneven
+block_41,Urwa Store Road C,12.8956,74.8347,12.8964,74.8354,1.5,3,yes,medium,good,smooth
+block_42,Surathkal Main A,12.9860,74.8104,12.9867,74.8112,1.1,7,no,high,poor,broken
+block_43,Surathkal Main B,12.9868,74.8114,12.9875,74.8122,1.3,5,yes,high,good,uneven
+block_44,Surathkal Main C,12.9876,74.8124,12.9883,74.8132,1.6,3,yes,medium,good,smooth
+block_45,Deralakatte Link A,12.8234,74.8610,12.8241,74.8618,1.0,8,no,high,poor,broken
+block_46,Deralakatte Link B,12.8242,74.8620,12.8249,74.8628,1.2,6,no,medium,poor,uneven
+block_47,Deralakatte Link C,12.8250,74.8630,12.8257,74.8638,1.5,3,yes,medium,good,smooth
+block_48,Panambur Road A,12.9157,74.7988,12.9165,74.7996,0.9,7,no,high,poor,broken
+block_49,Panambur Road B,12.9166,74.7998,12.9174,74.8006,1.1,6,no,high,poor,uneven
+block_50,Panambur Road C,12.9175,74.8008,12.9183,74.8016,1.4,4,yes,medium,good,smooth
+block_51,Kulur Road A,12.8972,74.8308,12.8980,74.8316,1.0,7,no,high,poor,broken
+block_52,Kulur Road B,12.8981,74.8318,12.8989,74.8326,1.2,6,no,medium,poor,uneven
+block_53,Kulur Road C,12.8990,74.8328,12.8998,74.8336,1.5,3,yes,medium,good,smooth
+block_54,Attavar Lane A,12.8726,74.8596,12.8733,74.8604,1.1,6,no,high,poor,uneven
+block_55,Attavar Lane B,12.8734,74.8606,12.8741,74.8614,1.6,3,yes,medium,good,smooth
+block_56,Mumbai Fort Lane 1,18.9352,72.8356,18.9359,72.8364,1.0,6,no,high,poor,broken
+block_57,Mumbai Dadar Road 1,19.0172,72.8432,19.0179,72.8440,1.2,5,no,high,poor,uneven
+block_58,Mumbai Andheri Link 1,19.1190,72.8465,19.1198,72.8473,1.4,4,yes,high,good,uneven
+block_59,Mumbai Kurla Street 1,19.0721,72.8794,19.0728,72.8802,0.8,7,no,high,poor,broken
+block_60,Pune Shivajinagar 1,18.5303,73.8487,18.5310,73.8495,1.1,6,no,high,poor,uneven
+block_61,Pune Camp Street 1,18.5132,73.8791,18.5139,73.8799,1.5,3,yes,medium,good,smooth
+block_62,Nashik Road 1,19.9975,73.7897,19.9982,73.7905,1.0,6,no,medium,poor,broken
+block_63,Nagpur Sitabuldi 1,21.1468,79.0848,21.1475,79.0856,1.2,5,no,high,poor,uneven
+block_64,Ahmedabad CG Road 1,23.0362,72.5616,23.0369,72.5624,1.1,6,no,high,poor,broken
+block_65,Ahmedabad Maninagar 1,23.0029,72.6043,23.0036,72.6051,1.4,4,yes,medium,good,uneven
+block_66,Surat Ring Road 1,21.1702,72.8311,21.1709,72.8319,0.9,7,no,high,poor,broken
+block_67,Vadodara Alkapuri 1,22.3154,73.1712,22.3161,73.1720,1.3,5,yes,medium,good,uneven
+block_68,Jaipur MI Road 1,26.9177,75.8126,26.9184,75.8134,1.1,6,no,high,poor,broken
+block_69,Jaipur Bapu Bazar 1,26.9211,75.8236,26.9218,75.8244,0.8,7,no,high,poor,broken
+block_70,Jodhpur Clock Tower 1,26.2964,73.0245,26.2971,73.0253,0.9,6,no,high,poor,uneven
+block_71,Udaipur Old City 1,24.5769,73.6826,24.5776,73.6834,1.0,8,no,medium,poor,uneven
+block_72,Delhi Connaught Place 1,28.6311,77.2166,28.6318,77.2174,1.2,5,no,high,poor,uneven
+block_73,Delhi Chandni Chowk 1,28.6561,77.2301,28.6568,77.2309,0.7,6,no,high,poor,broken
+block_74,Delhi Karol Bagh 1,28.6519,77.1901,28.6526,77.1909,1.0,6,no,high,poor,uneven
+block_75,Gurugram Sector 29 1,28.4677,77.0660,28.4684,77.0668,1.4,4,yes,high,good,uneven
+block_76,Noida Sector 18 1,28.5689,77.3265,28.5696,77.3273,1.3,5,yes,high,good,uneven
+block_77,Chandigarh Sector 17 1,30.7390,76.7820,30.7397,76.7828,1.8,2,yes,medium,good,smooth
+block_78,Lucknow Hazratganj 1,26.8512,80.9394,26.8519,80.9402,1.1,6,no,high,poor,broken
+block_79,Kanpur Mall Road 1,26.4636,80.3490,26.4643,80.3498,1.0,6,no,high,poor,uneven
+block_80,Varanasi Dashashwamedh 1,25.3076,83.0073,25.3083,83.0081,0.8,8,no,high,poor,broken
+block_81,Patna Fraser Road 1,25.6116,85.1442,25.6123,85.1450,1.1,6,no,high,poor,uneven
+block_82,Raipur Pandri 1,21.2496,81.6497,21.2503,81.6505,1.2,5,no,high,poor,uneven
+block_83,Bhopal MP Nagar 1,23.2324,77.4326,23.2331,77.4334,1.3,5,yes,high,good,uneven
+block_84,Indore Rajwada 1,22.7196,75.8577,22.7203,75.8585,0.9,6,no,high,poor,broken
+block_85,Kolkata Esplanade 1,22.5649,88.3512,22.5656,88.3520,1.1,6,no,high,poor,uneven
+block_86,Kolkata Gariahat 1,22.5204,88.3668,22.5211,88.3676,1.0,6,no,high,poor,broken
+block_87,Howrah Station Road 1,22.5850,88.3436,22.5857,88.3444,0.8,7,no,high,poor,broken
+block_88,Bhubaneswar Master Canteen 1,20.2706,85.8412,20.2713,85.8420,1.2,5,no,high,poor,uneven
+block_89,Cuttack CDA 1,20.4630,85.8842,20.4637,85.8850,1.3,5,yes,medium,good,uneven
+block_90,Guwahati Paltan Bazar 1,26.1797,91.7497,26.1804,91.7505,0.9,6,no,high,poor,broken
+block_91,Shillong Police Bazar 1,25.5745,91.8822,25.5752,91.8830,1.0,9,no,medium,poor,uneven
+block_92,Imphal Main Market 1,24.8170,93.9368,24.8177,93.9376,0.9,7,no,high,poor,broken
+block_93,Aizawl City Center 1,23.7312,92.7183,23.7319,92.7191,1.0,10,no,medium,poor,uneven
+block_94,Kohima Main Town 1,25.6750,94.1106,25.6757,94.1114,1.0,10,no,medium,poor,uneven
+block_95,Bengaluru MG Road 1,12.9757,77.6061,12.9764,77.6069,1.3,5,yes,high,good,uneven
+block_96,Bengaluru KR Market 1,12.9620,77.5761,12.9627,77.5769,0.8,6,no,high,poor,broken
+block_97,Bengaluru Whitefield 1,12.9697,77.7497,12.9704,77.7505,1.2,5,no,high,poor,uneven
+block_98,Mysuru Devaraja 1,12.3046,76.6522,12.3053,76.6530,1.0,6,no,medium,poor,uneven
+block_99,Mangaluru Hampankatta 2,12.8719,74.8446,12.8726,74.8454,1.1,6,no,high,poor,broken
+block_100,Mangaluru Balmatta 2,12.8744,74.8564,12.8751,74.8572,1.4,4,yes,high,good,uneven
+block_101,Chennai T Nagar 1,13.0410,80.2335,13.0417,80.2343,1.0,6,no,high,poor,broken
+block_102,Chennai Parry's Corner 1,13.0928,80.2892,13.0935,80.2900,0.8,6,no,high,poor,broken
+block_103,Coimbatore RS Puram 1,11.0097,76.9569,11.0104,76.9577,1.2,5,no,medium,good,uneven
+block_104,Madurai Meenakshi Area 1,9.9195,78.1191,9.9202,78.1199,0.9,6,no,high,poor,broken
+block_105,Hyderabad Abids 1,17.3949,78.4740,17.3956,78.4748,1.1,6,no,high,poor,broken
+block_106,Hyderabad Charminar 1,17.3617,78.4747,17.3624,78.4755,0.8,6,no,high,poor,broken
+block_107,Warangal Hanamkonda 1,17.9802,79.5316,17.9809,79.5324,1.0,6,no,medium,poor,uneven
+block_108,Vijayawada Benz Circle 1,16.5060,80.6480,16.5067,80.6488,1.1,6,no,high,poor,uneven
+block_109,Visakhapatnam RK Beach 1,17.7110,83.3180,17.7117,83.3188,1.4,4,yes,medium,good,uneven
+block_110,Thiruvananthapuram East Fort 1,8.4861,76.9507,8.4868,76.9515,1.0,6,no,high,poor,broken
+block_111,Kochi MG Road 1,9.9708,76.2850,9.9715,76.2858,1.2,5,no,high,poor,uneven
+block_112,Kozhikode SM Street 1,11.2588,75.7804,11.2595,75.7812,0.9,6,no,high,poor,broken
+block_113,Goa Panaji Market 1,15.4909,73.8278,15.4916,73.8286,1.1,5,no,medium,good,uneven
+block_114,Margao Station Road 1,15.2757,73.9581,15.2764,73.9589,1.0,6,no,high,poor,uneven
+block_115,Amritsar Hall Bazar 1,31.6344,74.8723,31.6351,74.8731,0.8,6,no,high,poor,broken
+block_116,Jammu Residency Road 1,32.7326,74.8645,32.7333,74.8653,1.1,6,no,high,poor,uneven
+block_117,Srinagar Lal Chowk 1,34.0677,74.7973,34.0684,74.7981,1.0,9,no,medium,poor,uneven
+block_118,Shimla Mall Road 1,31.1045,77.1710,31.1052,77.1718,0.9,11,no,medium,poor,uneven
+block_119,Manali Main Street 1,32.2432,77.1892,32.2439,77.1900,0.9,12,no,medium,poor,broken
+block_120,Dehradun Paltan Bazar 1,30.3202,78.0330,30.3209,78.0338,1.0,6,no,high,poor,uneven
+block_121,Nainital Mall Road 1,29.3916,79.4546,29.3923,79.4554,1.0,10,no,medium,poor,uneven
+block_122,Jaipur Malviya Nagar 1,26.8518,75.8103,26.8525,75.8111,1.3,5,yes,high,good,uneven
+block_123,Ludhiana Clock Tower 1,30.9010,75.8573,30.9017,75.8581,1.0,6,no,high,poor,broken
+block_124,Meerut Begum Bridge 1,28.9821,77.7060,28.9828,77.7068,1.1,6,no,high,poor,uneven
+block_125,Agra Sadar Bazaar 1,27.1574,78.0107,27.1581,78.0115,0.9,6,no,high,poor,broken
+block_126,Prayagraj Civil Lines 1,25.4483,81.8333,25.4490,81.8341,1.2,5,no,high,poor,uneven
+block_127,Ranchi Main Road 1,23.3700,85.3246,23.3707,85.3254,1.0,6,no,high,poor,uneven
+block_128,Jamshedpur Sakchi 1,22.8000,86.2030,22.8007,86.2038,1.1,6,no,high,poor,uneven
+block_129,Thane Station Road 1,19.1866,72.9753,19.1873,72.9761,1.0,6,no,high,poor,broken
+block_130,Navi Mumbai Vashi 1,19.0747,72.9972,19.0754,72.9980,1.3,5,yes,high,good,uneven
+block_131,Pune Kothrud 1,18.5077,73.8077,18.5084,73.8085,1.4,4,yes,medium,good,uneven
+block_132,Chennai Velachery 1,12.9757,80.2210,12.9764,80.2218,1.2,5,no,high,poor,uneven
+block_133,Bengaluru Jayanagar 1,12.9279,77.5835,12.9286,77.5843,1.5,3,yes,medium,good,smooth
+block_134,Hyderabad Gachibowli 1,17.4403,78.3488,17.4410,78.3496,1.4,4,yes,high,good,uneven
+block_135,Kolkata Salt Lake 1,22.5867,88.4171,22.5874,88.4179,1.6,3,yes,medium,good,smooth
+block_136,Chennai Anna Nagar 1,13.0878,80.2101,13.0885,80.2109,1.4,4,yes,medium,good,uneven
+block_137,Bhopal New Market 1,23.2338,77.4019,23.2345,77.4027,1.1,6,no,high,poor,broken
+block_138,Indore Vijay Nagar 1,22.7532,75.8937,22.7539,75.8945,1.3,5,yes,high,good,uneven
+block_139,Coimbatore Gandhipuram 1,11.0178,76.9675,11.0185,76.9683,1.0,6,no,high,poor,uneven
+block_140,Kochi Fort Kochi 1,9.9656,76.2422,9.9663,76.2430,0.9,6,no,medium,poor,uneven
+block_141,Guwahati GS Road 1,26.1448,91.7890,26.1455,91.7898,1.2,5,no,high,poor,uneven
+block_142,Shillong Laitumkhrah 1,25.5673,91.8914,25.5680,91.8922,1.0,10,no,medium,poor,uneven
+block_143,Shimla Ridge 1,31.1040,77.1736,31.1047,77.1744,0.9,11,no,medium,poor,broken
+block_144,Srinagar Dal Gate 1,34.0831,74.8301,34.0838,74.8309,1.0,9,no,medium,poor,uneven
+block_145,Varanasi Godowlia 1,25.3106,83.0061,25.3113,83.0069,0.7,8,no,high,poor,broken
+block_146,Patna Kankarbagh 1,25.5930,85.1621,25.5937,85.1629,1.1,6,no,high,poor,uneven
+block_147,Jaipur Mansarovar 1,26.8474,75.7641,26.8481,75.7649,1.2,5,no,high,poor,uneven
+block_148,Delhi Saket 1,28.5245,77.2066,28.5252,77.2074,1.4,4,yes,high,good,uneven
+block_149,Bengaluru Indiranagar 1,12.9717,77.6408,12.9724,77.6416,1.3,5,yes,high,good,uneven
+block_150,Chennai Egmore 1,13.0782,80.2615,13.0789,80.2623,1.0,6,no,high,poor,broken
+block_151,Hyderabad Secunderabad 1,17.4399,78.4983,17.4406,78.4991,1.1,6,no,high,poor,uneven
+block_152,Kolkata Park Street 1,22.5537,88.3511,22.5544,88.3519,1.1,6,no,high,poor,uneven
+block_153,Pune Hadapsar 1,18.5083,73.9250,18.5090,73.9258,1.0,6,no,high,poor,broken
+block_154,Mumbai Borivali 1,19.2300,72.8567,19.2307,72.8575,1.1,6,no,high,poor,uneven
+block_155,Ahmedabad Satellite 1,23.0275,72.5193,23.0282,72.5201,1.3,5,yes,high,good,uneven

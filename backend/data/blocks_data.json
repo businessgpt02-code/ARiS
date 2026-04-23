@@ -1,0 +1,4880 @@
+{
+  "blocks": [
+    {
+      "id": "block_1",
+      "name": "Near CST Station",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.8355,
+            18.9398
+          ],
+          [
+            72.8362,
+            18.9405
+          ]
+        ]
+      },
+      "sidewalk_width_m": 0.9,
+      "slope_percent": 9,
+      "has_curb_ramp": "no",
+      "traffic_level": "high",
+      "lighting_quality": "poor",
+      "surface_quality": "broken",
+      "risk_score": 1.0,
+      "risk_level": "high",
+      "reasons": [
+        "Non-compliant: clear width below CPWD minimum (1.2m)",
+        "Non-compliant: gradient exceeds CPWD reference (1:12 \u2248 8.33%)",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Context risk: high traffic exposure",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (broken)"
+      ]
+    },
+    {
+      "id": "block_2",
+      "name": "Marine Lines",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.8277,
+            18.9491
+          ],
+          [
+            72.8285,
+            18.9497
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.3,
+      "slope_percent": 5,
+      "has_curb_ramp": "yes",
+      "traffic_level": "medium",
+      "lighting_quality": "good",
+      "surface_quality": "smooth",
+      "risk_score": 0.2,
+      "risk_level": "low",
+      "reasons": [
+        "Below recommended width (~1.5m preferred for comfortable passing)"
+      ]
+    },
+    {
+      "id": "block_3",
+      "name": "Churchgate",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.8302,
+            18.9353
+          ],
+          [
+            72.831,
+            18.9359
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.8,
+      "slope_percent": 3,
+      "has_curb_ramp": "yes",
+      "traffic_level": "low",
+      "lighting_quality": "good",
+      "surface_quality": "smooth",
+      "risk_score": 0.0,
+      "risk_level": "low",
+      "reasons": [
+        "No major accessibility violations detected (based on available data)."
+      ]
+    },
+    {
+      "id": "block_4",
+      "name": "Kalbadevi Street",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.836,
+            18.949
+          ],
+          [
+            72.8368,
+            18.9496
+          ]
+        ]
+      },
+      "sidewalk_width_m": 0.7,
+      "slope_percent": 7,
+      "has_curb_ramp": "no",
+      "traffic_level": "high",
+      "lighting_quality": "poor",
+      "surface_quality": "broken",
+      "risk_score": 1.0,
+      "risk_level": "high",
+      "reasons": [
+        "Severe: clear width extremely narrow (< 0.9m) [below CPWD minimum 1.2m]",
+        "Caution: moderate gradient (> 5%) may reduce usability",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Context risk: high traffic exposure",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (broken)"
+      ]
+    },
+    {
+      "id": "block_5",
+      "name": "Fort Area Lane",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.835,
+            18.9325
+          ],
+          [
+            72.8357,
+            18.9332
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.1,
+      "slope_percent": 6,
+      "has_curb_ramp": "no",
+      "traffic_level": "medium",
+      "lighting_quality": "good",
+      "surface_quality": "uneven",
+      "risk_score": 0.75,
+      "risk_level": "high",
+      "reasons": [
+        "Non-compliant: clear width below CPWD minimum (1.2m)",
+        "Caution: moderate gradient (> 5%) may reduce usability",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Non-compliant: surface not firm/even (uneven)"
+      ]
+    },
+    {
+      "id": "block_6",
+      "name": "Hampankatta Link A",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            74.8426,
+            12.8704
+          ],
+          [
+            74.8434,
+            12.8711
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.1,
+      "slope_percent": 6,
+      "has_curb_ramp": "no",
+      "traffic_level": "high",
+      "lighting_quality": "poor",
+      "surface_quality": "uneven",
+      "risk_score": 0.95,
+      "risk_level": "high",
+      "reasons": [
+        "Non-compliant: clear width below CPWD minimum (1.2m)",
+        "Caution: moderate gradient (> 5%) may reduce usability",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Context risk: high traffic exposure",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (uneven)"
+      ]
+    },
+    {
+      "id": "block_7",
+      "name": "Hampankatta Link B",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            74.8436,
+            12.8712
+          ],
+          [
+            74.8444,
+            12.8719
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.5,
+      "slope_percent": 3,
+      "has_curb_ramp": "yes",
+      "traffic_level": "medium",
+      "lighting_quality": "good",
+      "surface_quality": "smooth",
+      "risk_score": 0.1,
+      "risk_level": "low",
+      "reasons": [
+        "No major accessibility violations detected (based on available data)."
+      ]
+    },
+    {
+      "id": "block_8",
+      "name": "Central Market Road A",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            74.8468,
+            12.8691
+          ],
+          [
+            74.8476,
+            12.8698
+          ]
+        ]
+      },
+      "sidewalk_width_m": 0.9,
+      "slope_percent": 7,
+      "has_curb_ramp": "no",
+      "traffic_level": "high",
+      "lighting_quality": "poor",
+      "surface_quality": "broken",
+      "risk_score": 1.0,
+      "risk_level": "high",
+      "reasons": [
+        "Non-compliant: clear width below CPWD minimum (1.2m)",
+        "Caution: moderate gradient (> 5%) may reduce usability",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Context risk: high traffic exposure",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (broken)"
+      ]
+    },
+    {
+      "id": "block_9",
+      "name": "Central Market Road B",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            74.8478,
+            12.8699
+          ],
+          [
+            74.8486,
+            12.8706
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.2,
+      "slope_percent": 5,
+      "has_curb_ramp": "no",
+      "traffic_level": "medium",
+      "lighting_quality": "good",
+      "surface_quality": "uneven",
+      "risk_score": 0.5,
+      "risk_level": "medium",
+      "reasons": [
+        "Below recommended width (~1.5m preferred for comfortable passing)",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Non-compliant: surface not firm/even (uneven)"
+      ]
+    },
+    {
+      "id": "block_10",
+      "name": "Clock Tower Approach A",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            74.849,
+            12.8708
+          ],
+          [
+            74.8498,
+            12.8715
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.6,
+      "slope_percent": 3,
+      "has_curb_ramp": "yes",
+      "traffic_level": "medium",
+      "lighting_quality": "good",
+      "surface_quality": "smooth",
+      "risk_score": 0.1,
+      "risk_level": "low",
+      "reasons": [
+        "No major accessibility violations detected (based on available data)."
+      ]
+    },
+    {
+      "id": "block_11",
+      "name": "Clock Tower Approach B",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            74.85,
+            12.8716
+          ],
+          [
+            74.8508,
+            12.8723
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.0,
+      "slope_percent": 8,
+      "has_curb_ramp": "no",
+      "traffic_level": "high",
+      "lighting_quality": "poor",
+      "surface_quality": "broken",
+      "risk_score": 1.0,
+      "risk_level": "high",
+      "reasons": [
+        "Non-compliant: clear width below CPWD minimum (1.2m)",
+        "Caution: moderate gradient (> 5%) may reduce usability",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Context risk: high traffic exposure",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (broken)"
+      ]
+    },
+    {
+      "id": "block_12",
+      "name": "Ladyhill Road A",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            74.8418,
+            12.8931
+          ],
+          [
+            74.8425,
+            12.8939
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.4,
+      "slope_percent": 4,
+      "has_curb_ramp": "yes",
+      "traffic_level": "medium",
+      "lighting_quality": "good",
+      "surface_quality": "smooth",
+      "risk_score": 0.2,
+      "risk_level": "low",
+      "reasons": [
+        "Below recommended width (~1.5m preferred for comfortable passing)"
+      ]
+    },
+    {
+      "id": "block_13",
+      "name": "Ladyhill Road B",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            74.8427,
+            12.894
+          ],
+          [
+            74.8434,
+            12.8948
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.0,
+      "slope_percent": 6,
+      "has_curb_ramp": "no",
+      "traffic_level": "medium",
+      "lighting_quality": "good",
+      "surface_quality": "uneven",
+      "risk_score": 0.75,
+      "risk_level": "high",
+      "reasons": [
+        "Non-compliant: clear width below CPWD minimum (1.2m)",
+        "Caution: moderate gradient (> 5%) may reduce usability",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Non-compliant: surface not firm/even (uneven)"
+      ]
+    },
+    {
+      "id": "block_14",
+      "name": "Kadri Park Lane A",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            74.8572,
+            12.8886
+          ],
+          [
+            74.858,
+            12.8893
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.7,
+      "slope_percent": 2,
+      "has_curb_ramp": "yes",
+      "traffic_level": "low",
+      "lighting_quality": "good",
+      "surface_quality": "smooth",
+      "risk_score": 0.0,
+      "risk_level": "low",
+      "reasons": [
+        "No major accessibility violations detected (based on available data)."
+      ]
+    },
+    {
+      "id": "block_15",
+      "name": "Kadri Park Lane B",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            74.8582,
+            12.8894
+          ],
+          [
+            74.859,
+            12.8901
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.3,
+      "slope_percent": 5,
+      "has_curb_ramp": "yes",
+      "traffic_level": "medium",
+      "lighting_quality": "good",
+      "surface_quality": "uneven",
+      "risk_score": 0.30000000000000004,
+      "risk_level": "low",
+      "reasons": [
+        "Below recommended width (~1.5m preferred for comfortable passing)",
+        "Non-compliant: surface not firm/even (uneven)"
+      ]
+    },
+    {
+      "id": "block_16",
+      "name": "Kadri Temple Road A",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            74.8603,
+            12.8827
+          ],
+          [
+            74.8611,
+            12.8834
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.1,
+      "slope_percent": 7,
+      "has_curb_ramp": "no",
+      "traffic_level": "high",
+      "lighting_quality": "poor",
+      "surface_quality": "broken",
+      "risk_score": 1.0,
+      "risk_level": "high",
+      "reasons": [
+        "Non-compliant: clear width below CPWD minimum (1.2m)",
+        "Caution: moderate gradient (> 5%) may reduce usability",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Context risk: high traffic exposure",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (broken)"
+      ]
+    },
+    {
+      "id": "block_17",
+      "name": "Kadri Temple Road B",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            74.8613,
+            12.8835
+          ],
+          [
+            74.8621,
+            12.8842
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.2,
+      "slope_percent": 6,
+      "has_curb_ramp": "no",
+      "traffic_level": "medium",
+      "lighting_quality": "poor",
+      "surface_quality": "uneven",
+      "risk_score": 0.7,
+      "risk_level": "high",
+      "reasons": [
+        "Below recommended width (~1.5m preferred for comfortable passing)",
+        "Caution: moderate gradient (> 5%) may reduce usability",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (uneven)"
+      ]
+    },
+    {
+      "id": "block_18",
+      "name": "Bejai Cross Road A",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            74.8459,
+            12.885
+          ],
+          [
+            74.8467,
+            12.8857
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.4,
+      "slope_percent": 4,
+      "has_curb_ramp": "yes",
+      "traffic_level": "medium",
+      "lighting_quality": "good",
+      "surface_quality": "smooth",
+      "risk_score": 0.2,
+      "risk_level": "low",
+      "reasons": [
+        "Below recommended width (~1.5m preferred for comfortable passing)"
+      ]
+    },
+    {
+      "id": "block_19",
+      "name": "Bejai Cross Road B",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            74.8469,
+            12.8858
+          ],
+          [
+            74.8477,
+            12.8865
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.0,
+      "slope_percent": 8,
+      "has_curb_ramp": "no",
+      "traffic_level": "high",
+      "lighting_quality": "poor",
+      "surface_quality": "broken",
+      "risk_score": 1.0,
+      "risk_level": "high",
+      "reasons": [
+        "Non-compliant: clear width below CPWD minimum (1.2m)",
+        "Caution: moderate gradient (> 5%) may reduce usability",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Context risk: high traffic exposure",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (broken)"
+      ]
+    },
+    {
+      "id": "block_20",
+      "name": "KS Rao Road A",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            74.8551,
+            12.8684
+          ],
+          [
+            74.8559,
+            12.8691
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.5,
+      "slope_percent": 3,
+      "has_curb_ramp": "yes",
+      "traffic_level": "high",
+      "lighting_quality": "good",
+      "surface_quality": "uneven",
+      "risk_score": 0.30000000000000004,
+      "risk_level": "low",
+      "reasons": [
+        "Context risk: high traffic exposure",
+        "Non-compliant: surface not firm/even (uneven)"
+      ]
+    },
+    {
+      "id": "block_21",
+      "name": "KS Rao Road B",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            74.8561,
+            12.8692
+          ],
+          [
+            74.8569,
+            12.8699
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.1,
+      "slope_percent": 6,
+      "has_curb_ramp": "no",
+      "traffic_level": "high",
+      "lighting_quality": "poor",
+      "surface_quality": "broken",
+      "risk_score": 1.0,
+      "risk_level": "high",
+      "reasons": [
+        "Non-compliant: clear width below CPWD minimum (1.2m)",
+        "Caution: moderate gradient (> 5%) may reduce usability",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Context risk: high traffic exposure",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (broken)"
+      ]
+    },
+    {
+      "id": "block_22",
+      "name": "Bunder Port Road A",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            74.8316,
+            12.8672
+          ],
+          [
+            74.8324,
+            12.8679
+          ]
+        ]
+      },
+      "sidewalk_width_m": 0.8,
+      "slope_percent": 7,
+      "has_curb_ramp": "no",
+      "traffic_level": "high",
+      "lighting_quality": "poor",
+      "surface_quality": "broken",
+      "risk_score": 1.0,
+      "risk_level": "high",
+      "reasons": [
+        "Severe: clear width extremely narrow (< 0.9m) [below CPWD minimum 1.2m]",
+        "Caution: moderate gradient (> 5%) may reduce usability",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Context risk: high traffic exposure",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (broken)"
+      ]
+    },
+    {
+      "id": "block_23",
+      "name": "Bunder Port Road B",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            74.8326,
+            12.868
+          ],
+          [
+            74.8334,
+            12.8687
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.0,
+      "slope_percent": 6,
+      "has_curb_ramp": "no",
+      "traffic_level": "high",
+      "lighting_quality": "poor",
+      "surface_quality": "uneven",
+      "risk_score": 0.95,
+      "risk_level": "high",
+      "reasons": [
+        "Non-compliant: clear width below CPWD minimum (1.2m)",
+        "Caution: moderate gradient (> 5%) may reduce usability",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Context risk: high traffic exposure",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (uneven)"
+      ]
+    },
+    {
+      "id": "block_24",
+      "name": "Car Street North A",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            74.8396,
+            12.8731
+          ],
+          [
+            74.8404,
+            12.8738
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.2,
+      "slope_percent": 5,
+      "has_curb_ramp": "no",
+      "traffic_level": "medium",
+      "lighting_quality": "good",
+      "surface_quality": "uneven",
+      "risk_score": 0.5,
+      "risk_level": "medium",
+      "reasons": [
+        "Below recommended width (~1.5m preferred for comfortable passing)",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Non-compliant: surface not firm/even (uneven)"
+      ]
+    },
+    {
+      "id": "block_25",
+      "name": "Car Street North B",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            74.8406,
+            12.8739
+          ],
+          [
+            74.8414,
+            12.8746
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.6,
+      "slope_percent": 2,
+      "has_curb_ramp": "yes",
+      "traffic_level": "medium",
+      "lighting_quality": "good",
+      "surface_quality": "smooth",
+      "risk_score": 0.1,
+      "risk_level": "low",
+      "reasons": [
+        "No major accessibility violations detected (based on available data)."
+      ]
+    },
+    {
+      "id": "block_26",
+      "name": "Car Street South A",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            74.8389,
+            12.8718
+          ],
+          [
+            74.8397,
+            12.8725
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.0,
+      "slope_percent": 7,
+      "has_curb_ramp": "no",
+      "traffic_level": "high",
+      "lighting_quality": "poor",
+      "surface_quality": "broken",
+      "risk_score": 1.0,
+      "risk_level": "high",
+      "reasons": [
+        "Non-compliant: clear width below CPWD minimum (1.2m)",
+        "Caution: moderate gradient (> 5%) may reduce usability",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Context risk: high traffic exposure",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (broken)"
+      ]
+    },
+    {
+      "id": "block_27",
+      "name": "Car Street South B",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            74.8399,
+            12.8726
+          ],
+          [
+            74.8407,
+            12.8733
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.3,
+      "slope_percent": 5,
+      "has_curb_ramp": "yes",
+      "traffic_level": "medium",
+      "lighting_quality": "good",
+      "surface_quality": "uneven",
+      "risk_score": 0.30000000000000004,
+      "risk_level": "low",
+      "reasons": [
+        "Below recommended width (~1.5m preferred for comfortable passing)",
+        "Non-compliant: surface not firm/even (uneven)"
+      ]
+    },
+    {
+      "id": "block_28",
+      "name": "Balmatta Road A",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            74.8534,
+            12.872
+          ],
+          [
+            74.8542,
+            12.8727
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.4,
+      "slope_percent": 4,
+      "has_curb_ramp": "yes",
+      "traffic_level": "high",
+      "lighting_quality": "good",
+      "surface_quality": "uneven",
+      "risk_score": 0.4,
+      "risk_level": "medium",
+      "reasons": [
+        "Below recommended width (~1.5m preferred for comfortable passing)",
+        "Context risk: high traffic exposure",
+        "Non-compliant: surface not firm/even (uneven)"
+      ]
+    },
+    {
+      "id": "block_29",
+      "name": "Balmatta Road B",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            74.8544,
+            12.8728
+          ],
+          [
+            74.8552,
+            12.8735
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.1,
+      "slope_percent": 6,
+      "has_curb_ramp": "no",
+      "traffic_level": "high",
+      "lighting_quality": "poor",
+      "surface_quality": "broken",
+      "risk_score": 1.0,
+      "risk_level": "high",
+      "reasons": [
+        "Non-compliant: clear width below CPWD minimum (1.2m)",
+        "Caution: moderate gradient (> 5%) may reduce usability",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Context risk: high traffic exposure",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (broken)"
+      ]
+    },
+    {
+      "id": "block_30",
+      "name": "Balmatta Road C",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            74.8554,
+            12.8736
+          ],
+          [
+            74.8562,
+            12.8743
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.7,
+      "slope_percent": 2,
+      "has_curb_ramp": "yes",
+      "traffic_level": "medium",
+      "lighting_quality": "good",
+      "surface_quality": "smooth",
+      "risk_score": 0.1,
+      "risk_level": "low",
+      "reasons": [
+        "No major accessibility violations detected (based on available data)."
+      ]
+    },
+    {
+      "id": "block_31",
+      "name": "Kankanady Road A",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            74.851,
+            12.8576
+          ],
+          [
+            74.8518,
+            12.8583
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.0,
+      "slope_percent": 8,
+      "has_curb_ramp": "no",
+      "traffic_level": "high",
+      "lighting_quality": "poor",
+      "surface_quality": "broken",
+      "risk_score": 1.0,
+      "risk_level": "high",
+      "reasons": [
+        "Non-compliant: clear width below CPWD minimum (1.2m)",
+        "Caution: moderate gradient (> 5%) may reduce usability",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Context risk: high traffic exposure",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (broken)"
+      ]
+    },
+    {
+      "id": "block_32",
+      "name": "Kankanady Road B",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            74.852,
+            12.8584
+          ],
+          [
+            74.8528,
+            12.8591
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.2,
+      "slope_percent": 6,
+      "has_curb_ramp": "no",
+      "traffic_level": "high",
+      "lighting_quality": "poor",
+      "surface_quality": "uneven",
+      "risk_score": 0.8,
+      "risk_level": "high",
+      "reasons": [
+        "Below recommended width (~1.5m preferred for comfortable passing)",
+        "Caution: moderate gradient (> 5%) may reduce usability",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Context risk: high traffic exposure",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (uneven)"
+      ]
+    },
+    {
+      "id": "block_33",
+      "name": "Kankanady Road C",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            74.853,
+            12.8592
+          ],
+          [
+            74.8538,
+            12.8599
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.5,
+      "slope_percent": 3,
+      "has_curb_ramp": "yes",
+      "traffic_level": "medium",
+      "lighting_quality": "good",
+      "surface_quality": "smooth",
+      "risk_score": 0.1,
+      "risk_level": "low",
+      "reasons": [
+        "No major accessibility violations detected (based on available data)."
+      ]
+    },
+    {
+      "id": "block_34",
+      "name": "Sturrock Road A",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            74.852,
+            12.8738
+          ],
+          [
+            74.8528,
+            12.8745
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.3,
+      "slope_percent": 5,
+      "has_curb_ramp": "yes",
+      "traffic_level": "medium",
+      "lighting_quality": "good",
+      "surface_quality": "uneven",
+      "risk_score": 0.30000000000000004,
+      "risk_level": "low",
+      "reasons": [
+        "Below recommended width (~1.5m preferred for comfortable passing)",
+        "Non-compliant: surface not firm/even (uneven)"
+      ]
+    },
+    {
+      "id": "block_35",
+      "name": "Sturrock Road B",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            74.853,
+            12.8746
+          ],
+          [
+            74.8538,
+            12.8753
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.0,
+      "slope_percent": 7,
+      "has_curb_ramp": "no",
+      "traffic_level": "high",
+      "lighting_quality": "poor",
+      "surface_quality": "broken",
+      "risk_score": 1.0,
+      "risk_level": "high",
+      "reasons": [
+        "Non-compliant: clear width below CPWD minimum (1.2m)",
+        "Caution: moderate gradient (> 5%) may reduce usability",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Context risk: high traffic exposure",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (broken)"
+      ]
+    },
+    {
+      "id": "block_36",
+      "name": "MG Road A",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            74.8481,
+            12.8709
+          ],
+          [
+            74.8489,
+            12.8716
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.4,
+      "slope_percent": 4,
+      "has_curb_ramp": "yes",
+      "traffic_level": "high",
+      "lighting_quality": "good",
+      "surface_quality": "uneven",
+      "risk_score": 0.4,
+      "risk_level": "medium",
+      "reasons": [
+        "Below recommended width (~1.5m preferred for comfortable passing)",
+        "Context risk: high traffic exposure",
+        "Non-compliant: surface not firm/even (uneven)"
+      ]
+    },
+    {
+      "id": "block_37",
+      "name": "MG Road B",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            74.8491,
+            12.8717
+          ],
+          [
+            74.8499,
+            12.8724
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.1,
+      "slope_percent": 6,
+      "has_curb_ramp": "no",
+      "traffic_level": "high",
+      "lighting_quality": "poor",
+      "surface_quality": "broken",
+      "risk_score": 1.0,
+      "risk_level": "high",
+      "reasons": [
+        "Non-compliant: clear width below CPWD minimum (1.2m)",
+        "Caution: moderate gradient (> 5%) may reduce usability",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Context risk: high traffic exposure",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (broken)"
+      ]
+    },
+    {
+      "id": "block_38",
+      "name": "MG Road C",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            74.8501,
+            12.8725
+          ],
+          [
+            74.8509,
+            12.8732
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.6,
+      "slope_percent": 3,
+      "has_curb_ramp": "yes",
+      "traffic_level": "medium",
+      "lighting_quality": "good",
+      "surface_quality": "smooth",
+      "risk_score": 0.1,
+      "risk_level": "low",
+      "reasons": [
+        "No major accessibility violations detected (based on available data)."
+      ]
+    },
+    {
+      "id": "block_39",
+      "name": "Urwa Store Road A",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            74.8329,
+            12.8938
+          ],
+          [
+            74.8336,
+            12.8946
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.0,
+      "slope_percent": 8,
+      "has_curb_ramp": "no",
+      "traffic_level": "high",
+      "lighting_quality": "poor",
+      "surface_quality": "broken",
+      "risk_score": 1.0,
+      "risk_level": "high",
+      "reasons": [
+        "Non-compliant: clear width below CPWD minimum (1.2m)",
+        "Caution: moderate gradient (> 5%) may reduce usability",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Context risk: high traffic exposure",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (broken)"
+      ]
+    },
+    {
+      "id": "block_40",
+      "name": "Urwa Store Road B",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            74.8338,
+            12.8947
+          ],
+          [
+            74.8345,
+            12.8955
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.2,
+      "slope_percent": 6,
+      "has_curb_ramp": "no",
+      "traffic_level": "medium",
+      "lighting_quality": "poor",
+      "surface_quality": "uneven",
+      "risk_score": 0.7,
+      "risk_level": "high",
+      "reasons": [
+        "Below recommended width (~1.5m preferred for comfortable passing)",
+        "Caution: moderate gradient (> 5%) may reduce usability",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (uneven)"
+      ]
+    },
+    {
+      "id": "block_41",
+      "name": "Urwa Store Road C",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            74.8347,
+            12.8956
+          ],
+          [
+            74.8354,
+            12.8964
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.5,
+      "slope_percent": 3,
+      "has_curb_ramp": "yes",
+      "traffic_level": "medium",
+      "lighting_quality": "good",
+      "surface_quality": "smooth",
+      "risk_score": 0.1,
+      "risk_level": "low",
+      "reasons": [
+        "No major accessibility violations detected (based on available data)."
+      ]
+    },
+    {
+      "id": "block_42",
+      "name": "Surathkal Main A",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            74.8104,
+            12.986
+          ],
+          [
+            74.8112,
+            12.9867
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.1,
+      "slope_percent": 7,
+      "has_curb_ramp": "no",
+      "traffic_level": "high",
+      "lighting_quality": "poor",
+      "surface_quality": "broken",
+      "risk_score": 1.0,
+      "risk_level": "high",
+      "reasons": [
+        "Non-compliant: clear width below CPWD minimum (1.2m)",
+        "Caution: moderate gradient (> 5%) may reduce usability",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Context risk: high traffic exposure",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (broken)"
+      ]
+    },
+    {
+      "id": "block_43",
+      "name": "Surathkal Main B",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            74.8114,
+            12.9868
+          ],
+          [
+            74.8122,
+            12.9875
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.3,
+      "slope_percent": 5,
+      "has_curb_ramp": "yes",
+      "traffic_level": "high",
+      "lighting_quality": "good",
+      "surface_quality": "uneven",
+      "risk_score": 0.4,
+      "risk_level": "medium",
+      "reasons": [
+        "Below recommended width (~1.5m preferred for comfortable passing)",
+        "Context risk: high traffic exposure",
+        "Non-compliant: surface not firm/even (uneven)"
+      ]
+    },
+    {
+      "id": "block_44",
+      "name": "Surathkal Main C",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            74.8124,
+            12.9876
+          ],
+          [
+            74.8132,
+            12.9883
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.6,
+      "slope_percent": 3,
+      "has_curb_ramp": "yes",
+      "traffic_level": "medium",
+      "lighting_quality": "good",
+      "surface_quality": "smooth",
+      "risk_score": 0.1,
+      "risk_level": "low",
+      "reasons": [
+        "No major accessibility violations detected (based on available data)."
+      ]
+    },
+    {
+      "id": "block_45",
+      "name": "Deralakatte Link A",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            74.861,
+            12.8234
+          ],
+          [
+            74.8618,
+            12.8241
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.0,
+      "slope_percent": 8,
+      "has_curb_ramp": "no",
+      "traffic_level": "high",
+      "lighting_quality": "poor",
+      "surface_quality": "broken",
+      "risk_score": 1.0,
+      "risk_level": "high",
+      "reasons": [
+        "Non-compliant: clear width below CPWD minimum (1.2m)",
+        "Caution: moderate gradient (> 5%) may reduce usability",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Context risk: high traffic exposure",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (broken)"
+      ]
+    },
+    {
+      "id": "block_46",
+      "name": "Deralakatte Link B",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            74.862,
+            12.8242
+          ],
+          [
+            74.8628,
+            12.8249
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.2,
+      "slope_percent": 6,
+      "has_curb_ramp": "no",
+      "traffic_level": "medium",
+      "lighting_quality": "poor",
+      "surface_quality": "uneven",
+      "risk_score": 0.7,
+      "risk_level": "high",
+      "reasons": [
+        "Below recommended width (~1.5m preferred for comfortable passing)",
+        "Caution: moderate gradient (> 5%) may reduce usability",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (uneven)"
+      ]
+    },
+    {
+      "id": "block_47",
+      "name": "Deralakatte Link C",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            74.863,
+            12.825
+          ],
+          [
+            74.8638,
+            12.8257
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.5,
+      "slope_percent": 3,
+      "has_curb_ramp": "yes",
+      "traffic_level": "medium",
+      "lighting_quality": "good",
+      "surface_quality": "smooth",
+      "risk_score": 0.1,
+      "risk_level": "low",
+      "reasons": [
+        "No major accessibility violations detected (based on available data)."
+      ]
+    },
+    {
+      "id": "block_48",
+      "name": "Panambur Road A",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            74.7988,
+            12.9157
+          ],
+          [
+            74.7996,
+            12.9165
+          ]
+        ]
+      },
+      "sidewalk_width_m": 0.9,
+      "slope_percent": 7,
+      "has_curb_ramp": "no",
+      "traffic_level": "high",
+      "lighting_quality": "poor",
+      "surface_quality": "broken",
+      "risk_score": 1.0,
+      "risk_level": "high",
+      "reasons": [
+        "Non-compliant: clear width below CPWD minimum (1.2m)",
+        "Caution: moderate gradient (> 5%) may reduce usability",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Context risk: high traffic exposure",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (broken)"
+      ]
+    },
+    {
+      "id": "block_49",
+      "name": "Panambur Road B",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            74.7998,
+            12.9166
+          ],
+          [
+            74.8006,
+            12.9174
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.1,
+      "slope_percent": 6,
+      "has_curb_ramp": "no",
+      "traffic_level": "high",
+      "lighting_quality": "poor",
+      "surface_quality": "uneven",
+      "risk_score": 0.95,
+      "risk_level": "high",
+      "reasons": [
+        "Non-compliant: clear width below CPWD minimum (1.2m)",
+        "Caution: moderate gradient (> 5%) may reduce usability",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Context risk: high traffic exposure",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (uneven)"
+      ]
+    },
+    {
+      "id": "block_50",
+      "name": "Panambur Road C",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            74.8008,
+            12.9175
+          ],
+          [
+            74.8016,
+            12.9183
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.4,
+      "slope_percent": 4,
+      "has_curb_ramp": "yes",
+      "traffic_level": "medium",
+      "lighting_quality": "good",
+      "surface_quality": "smooth",
+      "risk_score": 0.2,
+      "risk_level": "low",
+      "reasons": [
+        "Below recommended width (~1.5m preferred for comfortable passing)"
+      ]
+    },
+    {
+      "id": "block_51",
+      "name": "Kulur Road A",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            74.8308,
+            12.8972
+          ],
+          [
+            74.8316,
+            12.898
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.0,
+      "slope_percent": 7,
+      "has_curb_ramp": "no",
+      "traffic_level": "high",
+      "lighting_quality": "poor",
+      "surface_quality": "broken",
+      "risk_score": 1.0,
+      "risk_level": "high",
+      "reasons": [
+        "Non-compliant: clear width below CPWD minimum (1.2m)",
+        "Caution: moderate gradient (> 5%) may reduce usability",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Context risk: high traffic exposure",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (broken)"
+      ]
+    },
+    {
+      "id": "block_52",
+      "name": "Kulur Road B",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            74.8318,
+            12.8981
+          ],
+          [
+            74.8326,
+            12.8989
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.2,
+      "slope_percent": 6,
+      "has_curb_ramp": "no",
+      "traffic_level": "medium",
+      "lighting_quality": "poor",
+      "surface_quality": "uneven",
+      "risk_score": 0.7,
+      "risk_level": "high",
+      "reasons": [
+        "Below recommended width (~1.5m preferred for comfortable passing)",
+        "Caution: moderate gradient (> 5%) may reduce usability",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (uneven)"
+      ]
+    },
+    {
+      "id": "block_53",
+      "name": "Kulur Road C",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            74.8328,
+            12.899
+          ],
+          [
+            74.8336,
+            12.8998
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.5,
+      "slope_percent": 3,
+      "has_curb_ramp": "yes",
+      "traffic_level": "medium",
+      "lighting_quality": "good",
+      "surface_quality": "smooth",
+      "risk_score": 0.1,
+      "risk_level": "low",
+      "reasons": [
+        "No major accessibility violations detected (based on available data)."
+      ]
+    },
+    {
+      "id": "block_54",
+      "name": "Attavar Lane A",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            74.8596,
+            12.8726
+          ],
+          [
+            74.8604,
+            12.8733
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.1,
+      "slope_percent": 6,
+      "has_curb_ramp": "no",
+      "traffic_level": "high",
+      "lighting_quality": "poor",
+      "surface_quality": "uneven",
+      "risk_score": 0.95,
+      "risk_level": "high",
+      "reasons": [
+        "Non-compliant: clear width below CPWD minimum (1.2m)",
+        "Caution: moderate gradient (> 5%) may reduce usability",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Context risk: high traffic exposure",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (uneven)"
+      ]
+    },
+    {
+      "id": "block_55",
+      "name": "Attavar Lane B",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            74.8606,
+            12.8734
+          ],
+          [
+            74.8614,
+            12.8741
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.6,
+      "slope_percent": 3,
+      "has_curb_ramp": "yes",
+      "traffic_level": "medium",
+      "lighting_quality": "good",
+      "surface_quality": "smooth",
+      "risk_score": 0.1,
+      "risk_level": "low",
+      "reasons": [
+        "No major accessibility violations detected (based on available data)."
+      ]
+    },
+    {
+      "id": "block_56",
+      "name": "Mumbai Fort Lane 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.8356,
+            18.9352
+          ],
+          [
+            72.8364,
+            18.9359
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.0,
+      "slope_percent": 6,
+      "has_curb_ramp": "no",
+      "traffic_level": "high",
+      "lighting_quality": "poor",
+      "surface_quality": "broken",
+      "risk_score": 1.0,
+      "risk_level": "high",
+      "reasons": [
+        "Non-compliant: clear width below CPWD minimum (1.2m)",
+        "Caution: moderate gradient (> 5%) may reduce usability",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Context risk: high traffic exposure",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (broken)"
+      ]
+    },
+    {
+      "id": "block_57",
+      "name": "Mumbai Dadar Road 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.8432,
+            19.0172
+          ],
+          [
+            72.844,
+            19.0179
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.2,
+      "slope_percent": 5,
+      "has_curb_ramp": "no",
+      "traffic_level": "high",
+      "lighting_quality": "poor",
+      "surface_quality": "uneven",
+      "risk_score": 0.7,
+      "risk_level": "high",
+      "reasons": [
+        "Below recommended width (~1.5m preferred for comfortable passing)",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Context risk: high traffic exposure",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (uneven)"
+      ]
+    },
+    {
+      "id": "block_58",
+      "name": "Mumbai Andheri Link 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.8465,
+            19.119
+          ],
+          [
+            72.8473,
+            19.1198
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.4,
+      "slope_percent": 4,
+      "has_curb_ramp": "yes",
+      "traffic_level": "high",
+      "lighting_quality": "good",
+      "surface_quality": "uneven",
+      "risk_score": 0.4,
+      "risk_level": "medium",
+      "reasons": [
+        "Below recommended width (~1.5m preferred for comfortable passing)",
+        "Context risk: high traffic exposure",
+        "Non-compliant: surface not firm/even (uneven)"
+      ]
+    },
+    {
+      "id": "block_59",
+      "name": "Mumbai Kurla Street 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.8794,
+            19.0721
+          ],
+          [
+            72.8802,
+            19.0728
+          ]
+        ]
+      },
+      "sidewalk_width_m": 0.8,
+      "slope_percent": 7,
+      "has_curb_ramp": "no",
+      "traffic_level": "high",
+      "lighting_quality": "poor",
+      "surface_quality": "broken",
+      "risk_score": 1.0,
+      "risk_level": "high",
+      "reasons": [
+        "Severe: clear width extremely narrow (< 0.9m) [below CPWD minimum 1.2m]",
+        "Caution: moderate gradient (> 5%) may reduce usability",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Context risk: high traffic exposure",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (broken)"
+      ]
+    },
+    {
+      "id": "block_60",
+      "name": "Pune Shivajinagar 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8487,
+            18.5303
+          ],
+          [
+            73.8495,
+            18.531
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.1,
+      "slope_percent": 6,
+      "has_curb_ramp": "no",
+      "traffic_level": "high",
+      "lighting_quality": "poor",
+      "surface_quality": "uneven",
+      "risk_score": 0.95,
+      "risk_level": "high",
+      "reasons": [
+        "Non-compliant: clear width below CPWD minimum (1.2m)",
+        "Caution: moderate gradient (> 5%) may reduce usability",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Context risk: high traffic exposure",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (uneven)"
+      ]
+    },
+    {
+      "id": "block_61",
+      "name": "Pune Camp Street 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8791,
+            18.5132
+          ],
+          [
+            73.8799,
+            18.5139
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.5,
+      "slope_percent": 3,
+      "has_curb_ramp": "yes",
+      "traffic_level": "medium",
+      "lighting_quality": "good",
+      "surface_quality": "smooth",
+      "risk_score": 0.1,
+      "risk_level": "low",
+      "reasons": [
+        "No major accessibility violations detected (based on available data)."
+      ]
+    },
+    {
+      "id": "block_62",
+      "name": "Nashik Road 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.7897,
+            19.9975
+          ],
+          [
+            73.7905,
+            19.9982
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.0,
+      "slope_percent": 6,
+      "has_curb_ramp": "no",
+      "traffic_level": "medium",
+      "lighting_quality": "poor",
+      "surface_quality": "broken",
+      "risk_score": 0.95,
+      "risk_level": "high",
+      "reasons": [
+        "Non-compliant: clear width below CPWD minimum (1.2m)",
+        "Caution: moderate gradient (> 5%) may reduce usability",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (broken)"
+      ]
+    },
+    {
+      "id": "block_63",
+      "name": "Nagpur Sitabuldi 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            79.0848,
+            21.1468
+          ],
+          [
+            79.0856,
+            21.1475
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.2,
+      "slope_percent": 5,
+      "has_curb_ramp": "no",
+      "traffic_level": "high",
+      "lighting_quality": "poor",
+      "surface_quality": "uneven",
+      "risk_score": 0.7,
+      "risk_level": "high",
+      "reasons": [
+        "Below recommended width (~1.5m preferred for comfortable passing)",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Context risk: high traffic exposure",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (uneven)"
+      ]
+    },
+    {
+      "id": "block_64",
+      "name": "Ahmedabad CG Road 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.5616,
+            23.0362
+          ],
+          [
+            72.5624,
+            23.0369
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.1,
+      "slope_percent": 6,
+      "has_curb_ramp": "no",
+      "traffic_level": "high",
+      "lighting_quality": "poor",
+      "surface_quality": "broken",
+      "risk_score": 1.0,
+      "risk_level": "high",
+      "reasons": [
+        "Non-compliant: clear width below CPWD minimum (1.2m)",
+        "Caution: moderate gradient (> 5%) may reduce usability",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Context risk: high traffic exposure",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (broken)"
+      ]
+    },
+    {
+      "id": "block_65",
+      "name": "Ahmedabad Maninagar 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.6043,
+            23.0029
+          ],
+          [
+            72.6051,
+            23.0036
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.4,
+      "slope_percent": 4,
+      "has_curb_ramp": "yes",
+      "traffic_level": "medium",
+      "lighting_quality": "good",
+      "surface_quality": "uneven",
+      "risk_score": 0.30000000000000004,
+      "risk_level": "low",
+      "reasons": [
+        "Below recommended width (~1.5m preferred for comfortable passing)",
+        "Non-compliant: surface not firm/even (uneven)"
+      ]
+    },
+    {
+      "id": "block_66",
+      "name": "Surat Ring Road 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.8311,
+            21.1702
+          ],
+          [
+            72.8319,
+            21.1709
+          ]
+        ]
+      },
+      "sidewalk_width_m": 0.9,
+      "slope_percent": 7,
+      "has_curb_ramp": "no",
+      "traffic_level": "high",
+      "lighting_quality": "poor",
+      "surface_quality": "broken",
+      "risk_score": 1.0,
+      "risk_level": "high",
+      "reasons": [
+        "Non-compliant: clear width below CPWD minimum (1.2m)",
+        "Caution: moderate gradient (> 5%) may reduce usability",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Context risk: high traffic exposure",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (broken)"
+      ]
+    },
+    {
+      "id": "block_67",
+      "name": "Vadodara Alkapuri 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.1712,
+            22.3154
+          ],
+          [
+            73.172,
+            22.3161
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.3,
+      "slope_percent": 5,
+      "has_curb_ramp": "yes",
+      "traffic_level": "medium",
+      "lighting_quality": "good",
+      "surface_quality": "uneven",
+      "risk_score": 0.30000000000000004,
+      "risk_level": "low",
+      "reasons": [
+        "Below recommended width (~1.5m preferred for comfortable passing)",
+        "Non-compliant: surface not firm/even (uneven)"
+      ]
+    },
+    {
+      "id": "block_68",
+      "name": "Jaipur MI Road 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.8126,
+            26.9177
+          ],
+          [
+            75.8134,
+            26.9184
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.1,
+      "slope_percent": 6,
+      "has_curb_ramp": "no",
+      "traffic_level": "high",
+      "lighting_quality": "poor",
+      "surface_quality": "broken",
+      "risk_score": 1.0,
+      "risk_level": "high",
+      "reasons": [
+        "Non-compliant: clear width below CPWD minimum (1.2m)",
+        "Caution: moderate gradient (> 5%) may reduce usability",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Context risk: high traffic exposure",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (broken)"
+      ]
+    },
+    {
+      "id": "block_69",
+      "name": "Jaipur Bapu Bazar 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.8236,
+            26.9211
+          ],
+          [
+            75.8244,
+            26.9218
+          ]
+        ]
+      },
+      "sidewalk_width_m": 0.8,
+      "slope_percent": 7,
+      "has_curb_ramp": "no",
+      "traffic_level": "high",
+      "lighting_quality": "poor",
+      "surface_quality": "broken",
+      "risk_score": 1.0,
+      "risk_level": "high",
+      "reasons": [
+        "Severe: clear width extremely narrow (< 0.9m) [below CPWD minimum 1.2m]",
+        "Caution: moderate gradient (> 5%) may reduce usability",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Context risk: high traffic exposure",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (broken)"
+      ]
+    },
+    {
+      "id": "block_70",
+      "name": "Jodhpur Clock Tower 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.0245,
+            26.2964
+          ],
+          [
+            73.0253,
+            26.2971
+          ]
+        ]
+      },
+      "sidewalk_width_m": 0.9,
+      "slope_percent": 6,
+      "has_curb_ramp": "no",
+      "traffic_level": "high",
+      "lighting_quality": "poor",
+      "surface_quality": "uneven",
+      "risk_score": 0.95,
+      "risk_level": "high",
+      "reasons": [
+        "Non-compliant: clear width below CPWD minimum (1.2m)",
+        "Caution: moderate gradient (> 5%) may reduce usability",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Context risk: high traffic exposure",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (uneven)"
+      ]
+    },
+    {
+      "id": "block_71",
+      "name": "Udaipur Old City 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.6826,
+            24.5769
+          ],
+          [
+            73.6834,
+            24.5776
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.0,
+      "slope_percent": 8,
+      "has_curb_ramp": "no",
+      "traffic_level": "medium",
+      "lighting_quality": "poor",
+      "surface_quality": "uneven",
+      "risk_score": 0.85,
+      "risk_level": "high",
+      "reasons": [
+        "Non-compliant: clear width below CPWD minimum (1.2m)",
+        "Caution: moderate gradient (> 5%) may reduce usability",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (uneven)"
+      ]
+    },
+    {
+      "id": "block_72",
+      "name": "Delhi Connaught Place 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2166,
+            28.6311
+          ],
+          [
+            77.2174,
+            28.6318
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.2,
+      "slope_percent": 5,
+      "has_curb_ramp": "no",
+      "traffic_level": "high",
+      "lighting_quality": "poor",
+      "surface_quality": "uneven",
+      "risk_score": 0.7,
+      "risk_level": "high",
+      "reasons": [
+        "Below recommended width (~1.5m preferred for comfortable passing)",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Context risk: high traffic exposure",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (uneven)"
+      ]
+    },
+    {
+      "id": "block_73",
+      "name": "Delhi Chandni Chowk 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2301,
+            28.6561
+          ],
+          [
+            77.2309,
+            28.6568
+          ]
+        ]
+      },
+      "sidewalk_width_m": 0.7,
+      "slope_percent": 6,
+      "has_curb_ramp": "no",
+      "traffic_level": "high",
+      "lighting_quality": "poor",
+      "surface_quality": "broken",
+      "risk_score": 1.0,
+      "risk_level": "high",
+      "reasons": [
+        "Severe: clear width extremely narrow (< 0.9m) [below CPWD minimum 1.2m]",
+        "Caution: moderate gradient (> 5%) may reduce usability",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Context risk: high traffic exposure",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (broken)"
+      ]
+    },
+    {
+      "id": "block_74",
+      "name": "Delhi Karol Bagh 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.1901,
+            28.6519
+          ],
+          [
+            77.1909,
+            28.6526
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.0,
+      "slope_percent": 6,
+      "has_curb_ramp": "no",
+      "traffic_level": "high",
+      "lighting_quality": "poor",
+      "surface_quality": "uneven",
+      "risk_score": 0.95,
+      "risk_level": "high",
+      "reasons": [
+        "Non-compliant: clear width below CPWD minimum (1.2m)",
+        "Caution: moderate gradient (> 5%) may reduce usability",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Context risk: high traffic exposure",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (uneven)"
+      ]
+    },
+    {
+      "id": "block_75",
+      "name": "Gurugram Sector 29 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.066,
+            28.4677
+          ],
+          [
+            77.0668,
+            28.4684
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.4,
+      "slope_percent": 4,
+      "has_curb_ramp": "yes",
+      "traffic_level": "high",
+      "lighting_quality": "good",
+      "surface_quality": "uneven",
+      "risk_score": 0.4,
+      "risk_level": "medium",
+      "reasons": [
+        "Below recommended width (~1.5m preferred for comfortable passing)",
+        "Context risk: high traffic exposure",
+        "Non-compliant: surface not firm/even (uneven)"
+      ]
+    },
+    {
+      "id": "block_76",
+      "name": "Noida Sector 18 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.3265,
+            28.5689
+          ],
+          [
+            77.3273,
+            28.5696
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.3,
+      "slope_percent": 5,
+      "has_curb_ramp": "yes",
+      "traffic_level": "high",
+      "lighting_quality": "good",
+      "surface_quality": "uneven",
+      "risk_score": 0.4,
+      "risk_level": "medium",
+      "reasons": [
+        "Below recommended width (~1.5m preferred for comfortable passing)",
+        "Context risk: high traffic exposure",
+        "Non-compliant: surface not firm/even (uneven)"
+      ]
+    },
+    {
+      "id": "block_77",
+      "name": "Chandigarh Sector 17 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            76.782,
+            30.739
+          ],
+          [
+            76.7828,
+            30.7397
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.8,
+      "slope_percent": 2,
+      "has_curb_ramp": "yes",
+      "traffic_level": "medium",
+      "lighting_quality": "good",
+      "surface_quality": "smooth",
+      "risk_score": 0.1,
+      "risk_level": "low",
+      "reasons": [
+        "No major accessibility violations detected (based on available data)."
+      ]
+    },
+    {
+      "id": "block_78",
+      "name": "Lucknow Hazratganj 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.9394,
+            26.8512
+          ],
+          [
+            80.9402,
+            26.8519
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.1,
+      "slope_percent": 6,
+      "has_curb_ramp": "no",
+      "traffic_level": "high",
+      "lighting_quality": "poor",
+      "surface_quality": "broken",
+      "risk_score": 1.0,
+      "risk_level": "high",
+      "reasons": [
+        "Non-compliant: clear width below CPWD minimum (1.2m)",
+        "Caution: moderate gradient (> 5%) may reduce usability",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Context risk: high traffic exposure",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (broken)"
+      ]
+    },
+    {
+      "id": "block_79",
+      "name": "Kanpur Mall Road 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.349,
+            26.4636
+          ],
+          [
+            80.3498,
+            26.4643
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.0,
+      "slope_percent": 6,
+      "has_curb_ramp": "no",
+      "traffic_level": "high",
+      "lighting_quality": "poor",
+      "surface_quality": "uneven",
+      "risk_score": 0.95,
+      "risk_level": "high",
+      "reasons": [
+        "Non-compliant: clear width below CPWD minimum (1.2m)",
+        "Caution: moderate gradient (> 5%) may reduce usability",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Context risk: high traffic exposure",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (uneven)"
+      ]
+    },
+    {
+      "id": "block_80",
+      "name": "Varanasi Dashashwamedh 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            83.0073,
+            25.3076
+          ],
+          [
+            83.0081,
+            25.3083
+          ]
+        ]
+      },
+      "sidewalk_width_m": 0.8,
+      "slope_percent": 8,
+      "has_curb_ramp": "no",
+      "traffic_level": "high",
+      "lighting_quality": "poor",
+      "surface_quality": "broken",
+      "risk_score": 1.0,
+      "risk_level": "high",
+      "reasons": [
+        "Severe: clear width extremely narrow (< 0.9m) [below CPWD minimum 1.2m]",
+        "Caution: moderate gradient (> 5%) may reduce usability",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Context risk: high traffic exposure",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (broken)"
+      ]
+    },
+    {
+      "id": "block_81",
+      "name": "Patna Fraser Road 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            85.1442,
+            25.6116
+          ],
+          [
+            85.145,
+            25.6123
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.1,
+      "slope_percent": 6,
+      "has_curb_ramp": "no",
+      "traffic_level": "high",
+      "lighting_quality": "poor",
+      "surface_quality": "uneven",
+      "risk_score": 0.95,
+      "risk_level": "high",
+      "reasons": [
+        "Non-compliant: clear width below CPWD minimum (1.2m)",
+        "Caution: moderate gradient (> 5%) may reduce usability",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Context risk: high traffic exposure",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (uneven)"
+      ]
+    },
+    {
+      "id": "block_82",
+      "name": "Raipur Pandri 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.6497,
+            21.2496
+          ],
+          [
+            81.6505,
+            21.2503
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.2,
+      "slope_percent": 5,
+      "has_curb_ramp": "no",
+      "traffic_level": "high",
+      "lighting_quality": "poor",
+      "surface_quality": "uneven",
+      "risk_score": 0.7,
+      "risk_level": "high",
+      "reasons": [
+        "Below recommended width (~1.5m preferred for comfortable passing)",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Context risk: high traffic exposure",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (uneven)"
+      ]
+    },
+    {
+      "id": "block_83",
+      "name": "Bhopal MP Nagar 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.4326,
+            23.2324
+          ],
+          [
+            77.4334,
+            23.2331
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.3,
+      "slope_percent": 5,
+      "has_curb_ramp": "yes",
+      "traffic_level": "high",
+      "lighting_quality": "good",
+      "surface_quality": "uneven",
+      "risk_score": 0.4,
+      "risk_level": "medium",
+      "reasons": [
+        "Below recommended width (~1.5m preferred for comfortable passing)",
+        "Context risk: high traffic exposure",
+        "Non-compliant: surface not firm/even (uneven)"
+      ]
+    },
+    {
+      "id": "block_84",
+      "name": "Indore Rajwada 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.8577,
+            22.7196
+          ],
+          [
+            75.8585,
+            22.7203
+          ]
+        ]
+      },
+      "sidewalk_width_m": 0.9,
+      "slope_percent": 6,
+      "has_curb_ramp": "no",
+      "traffic_level": "high",
+      "lighting_quality": "poor",
+      "surface_quality": "broken",
+      "risk_score": 1.0,
+      "risk_level": "high",
+      "reasons": [
+        "Non-compliant: clear width below CPWD minimum (1.2m)",
+        "Caution: moderate gradient (> 5%) may reduce usability",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Context risk: high traffic exposure",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (broken)"
+      ]
+    },
+    {
+      "id": "block_85",
+      "name": "Kolkata Esplanade 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            88.3512,
+            22.5649
+          ],
+          [
+            88.352,
+            22.5656
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.1,
+      "slope_percent": 6,
+      "has_curb_ramp": "no",
+      "traffic_level": "high",
+      "lighting_quality": "poor",
+      "surface_quality": "uneven",
+      "risk_score": 0.95,
+      "risk_level": "high",
+      "reasons": [
+        "Non-compliant: clear width below CPWD minimum (1.2m)",
+        "Caution: moderate gradient (> 5%) may reduce usability",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Context risk: high traffic exposure",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (uneven)"
+      ]
+    },
+    {
+      "id": "block_86",
+      "name": "Kolkata Gariahat 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            88.3668,
+            22.5204
+          ],
+          [
+            88.3676,
+            22.5211
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.0,
+      "slope_percent": 6,
+      "has_curb_ramp": "no",
+      "traffic_level": "high",
+      "lighting_quality": "poor",
+      "surface_quality": "broken",
+      "risk_score": 1.0,
+      "risk_level": "high",
+      "reasons": [
+        "Non-compliant: clear width below CPWD minimum (1.2m)",
+        "Caution: moderate gradient (> 5%) may reduce usability",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Context risk: high traffic exposure",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (broken)"
+      ]
+    },
+    {
+      "id": "block_87",
+      "name": "Howrah Station Road 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            88.3436,
+            22.585
+          ],
+          [
+            88.3444,
+            22.5857
+          ]
+        ]
+      },
+      "sidewalk_width_m": 0.8,
+      "slope_percent": 7,
+      "has_curb_ramp": "no",
+      "traffic_level": "high",
+      "lighting_quality": "poor",
+      "surface_quality": "broken",
+      "risk_score": 1.0,
+      "risk_level": "high",
+      "reasons": [
+        "Severe: clear width extremely narrow (< 0.9m) [below CPWD minimum 1.2m]",
+        "Caution: moderate gradient (> 5%) may reduce usability",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Context risk: high traffic exposure",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (broken)"
+      ]
+    },
+    {
+      "id": "block_88",
+      "name": "Bhubaneswar Master Canteen 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            85.8412,
+            20.2706
+          ],
+          [
+            85.842,
+            20.2713
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.2,
+      "slope_percent": 5,
+      "has_curb_ramp": "no",
+      "traffic_level": "high",
+      "lighting_quality": "poor",
+      "surface_quality": "uneven",
+      "risk_score": 0.7,
+      "risk_level": "high",
+      "reasons": [
+        "Below recommended width (~1.5m preferred for comfortable passing)",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Context risk: high traffic exposure",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (uneven)"
+      ]
+    },
+    {
+      "id": "block_89",
+      "name": "Cuttack CDA 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            85.8842,
+            20.463
+          ],
+          [
+            85.885,
+            20.4637
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.3,
+      "slope_percent": 5,
+      "has_curb_ramp": "yes",
+      "traffic_level": "medium",
+      "lighting_quality": "good",
+      "surface_quality": "uneven",
+      "risk_score": 0.30000000000000004,
+      "risk_level": "low",
+      "reasons": [
+        "Below recommended width (~1.5m preferred for comfortable passing)",
+        "Non-compliant: surface not firm/even (uneven)"
+      ]
+    },
+    {
+      "id": "block_90",
+      "name": "Guwahati Paltan Bazar 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            91.7497,
+            26.1797
+          ],
+          [
+            91.7505,
+            26.1804
+          ]
+        ]
+      },
+      "sidewalk_width_m": 0.9,
+      "slope_percent": 6,
+      "has_curb_ramp": "no",
+      "traffic_level": "high",
+      "lighting_quality": "poor",
+      "surface_quality": "broken",
+      "risk_score": 1.0,
+      "risk_level": "high",
+      "reasons": [
+        "Non-compliant: clear width below CPWD minimum (1.2m)",
+        "Caution: moderate gradient (> 5%) may reduce usability",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Context risk: high traffic exposure",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (broken)"
+      ]
+    },
+    {
+      "id": "block_91",
+      "name": "Shillong Police Bazar 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            91.8822,
+            25.5745
+          ],
+          [
+            91.883,
+            25.5752
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.0,
+      "slope_percent": 9,
+      "has_curb_ramp": "no",
+      "traffic_level": "medium",
+      "lighting_quality": "poor",
+      "surface_quality": "uneven",
+      "risk_score": 0.95,
+      "risk_level": "high",
+      "reasons": [
+        "Non-compliant: clear width below CPWD minimum (1.2m)",
+        "Non-compliant: gradient exceeds CPWD reference (1:12 \u2248 8.33%)",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (uneven)"
+      ]
+    },
+    {
+      "id": "block_92",
+      "name": "Imphal Main Market 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            93.9368,
+            24.817
+          ],
+          [
+            93.9376,
+            24.8177
+          ]
+        ]
+      },
+      "sidewalk_width_m": 0.9,
+      "slope_percent": 7,
+      "has_curb_ramp": "no",
+      "traffic_level": "high",
+      "lighting_quality": "poor",
+      "surface_quality": "broken",
+      "risk_score": 1.0,
+      "risk_level": "high",
+      "reasons": [
+        "Non-compliant: clear width below CPWD minimum (1.2m)",
+        "Caution: moderate gradient (> 5%) may reduce usability",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Context risk: high traffic exposure",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (broken)"
+      ]
+    },
+    {
+      "id": "block_93",
+      "name": "Aizawl City Center 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            92.7183,
+            23.7312
+          ],
+          [
+            92.7191,
+            23.7319
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.0,
+      "slope_percent": 10,
+      "has_curb_ramp": "no",
+      "traffic_level": "medium",
+      "lighting_quality": "poor",
+      "surface_quality": "uneven",
+      "risk_score": 0.95,
+      "risk_level": "high",
+      "reasons": [
+        "Non-compliant: clear width below CPWD minimum (1.2m)",
+        "Non-compliant: gradient exceeds CPWD reference (1:12 \u2248 8.33%)",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (uneven)"
+      ]
+    },
+    {
+      "id": "block_94",
+      "name": "Kohima Main Town 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            94.1106,
+            25.675
+          ],
+          [
+            94.1114,
+            25.6757
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.0,
+      "slope_percent": 10,
+      "has_curb_ramp": "no",
+      "traffic_level": "medium",
+      "lighting_quality": "poor",
+      "surface_quality": "uneven",
+      "risk_score": 0.95,
+      "risk_level": "high",
+      "reasons": [
+        "Non-compliant: clear width below CPWD minimum (1.2m)",
+        "Non-compliant: gradient exceeds CPWD reference (1:12 \u2248 8.33%)",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (uneven)"
+      ]
+    },
+    {
+      "id": "block_95",
+      "name": "Bengaluru MG Road 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.6061,
+            12.9757
+          ],
+          [
+            77.6069,
+            12.9764
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.3,
+      "slope_percent": 5,
+      "has_curb_ramp": "yes",
+      "traffic_level": "high",
+      "lighting_quality": "good",
+      "surface_quality": "uneven",
+      "risk_score": 0.4,
+      "risk_level": "medium",
+      "reasons": [
+        "Below recommended width (~1.5m preferred for comfortable passing)",
+        "Context risk: high traffic exposure",
+        "Non-compliant: surface not firm/even (uneven)"
+      ]
+    },
+    {
+      "id": "block_96",
+      "name": "Bengaluru KR Market 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.5761,
+            12.962
+          ],
+          [
+            77.5769,
+            12.9627
+          ]
+        ]
+      },
+      "sidewalk_width_m": 0.8,
+      "slope_percent": 6,
+      "has_curb_ramp": "no",
+      "traffic_level": "high",
+      "lighting_quality": "poor",
+      "surface_quality": "broken",
+      "risk_score": 1.0,
+      "risk_level": "high",
+      "reasons": [
+        "Severe: clear width extremely narrow (< 0.9m) [below CPWD minimum 1.2m]",
+        "Caution: moderate gradient (> 5%) may reduce usability",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Context risk: high traffic exposure",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (broken)"
+      ]
+    },
+    {
+      "id": "block_97",
+      "name": "Bengaluru Whitefield 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.7497,
+            12.9697
+          ],
+          [
+            77.7505,
+            12.9704
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.2,
+      "slope_percent": 5,
+      "has_curb_ramp": "no",
+      "traffic_level": "high",
+      "lighting_quality": "poor",
+      "surface_quality": "uneven",
+      "risk_score": 0.7,
+      "risk_level": "high",
+      "reasons": [
+        "Below recommended width (~1.5m preferred for comfortable passing)",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Context risk: high traffic exposure",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (uneven)"
+      ]
+    },
+    {
+      "id": "block_98",
+      "name": "Mysuru Devaraja 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            76.6522,
+            12.3046
+          ],
+          [
+            76.653,
+            12.3053
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.0,
+      "slope_percent": 6,
+      "has_curb_ramp": "no",
+      "traffic_level": "medium",
+      "lighting_quality": "poor",
+      "surface_quality": "uneven",
+      "risk_score": 0.85,
+      "risk_level": "high",
+      "reasons": [
+        "Non-compliant: clear width below CPWD minimum (1.2m)",
+        "Caution: moderate gradient (> 5%) may reduce usability",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (uneven)"
+      ]
+    },
+    {
+      "id": "block_99",
+      "name": "Mangaluru Hampankatta 2",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            74.8446,
+            12.8719
+          ],
+          [
+            74.8454,
+            12.8726
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.1,
+      "slope_percent": 6,
+      "has_curb_ramp": "no",
+      "traffic_level": "high",
+      "lighting_quality": "poor",
+      "surface_quality": "broken",
+      "risk_score": 1.0,
+      "risk_level": "high",
+      "reasons": [
+        "Non-compliant: clear width below CPWD minimum (1.2m)",
+        "Caution: moderate gradient (> 5%) may reduce usability",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Context risk: high traffic exposure",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (broken)"
+      ]
+    },
+    {
+      "id": "block_100",
+      "name": "Mangaluru Balmatta 2",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            74.8564,
+            12.8744
+          ],
+          [
+            74.8572,
+            12.8751
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.4,
+      "slope_percent": 4,
+      "has_curb_ramp": "yes",
+      "traffic_level": "high",
+      "lighting_quality": "good",
+      "surface_quality": "uneven",
+      "risk_score": 0.4,
+      "risk_level": "medium",
+      "reasons": [
+        "Below recommended width (~1.5m preferred for comfortable passing)",
+        "Context risk: high traffic exposure",
+        "Non-compliant: surface not firm/even (uneven)"
+      ]
+    },
+    {
+      "id": "block_101",
+      "name": "Chennai T Nagar 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.2335,
+            13.041
+          ],
+          [
+            80.2343,
+            13.0417
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.0,
+      "slope_percent": 6,
+      "has_curb_ramp": "no",
+      "traffic_level": "high",
+      "lighting_quality": "poor",
+      "surface_quality": "broken",
+      "risk_score": 1.0,
+      "risk_level": "high",
+      "reasons": [
+        "Non-compliant: clear width below CPWD minimum (1.2m)",
+        "Caution: moderate gradient (> 5%) may reduce usability",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Context risk: high traffic exposure",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (broken)"
+      ]
+    },
+    {
+      "id": "block_102",
+      "name": "Chennai Parry's Corner 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.2892,
+            13.0928
+          ],
+          [
+            80.29,
+            13.0935
+          ]
+        ]
+      },
+      "sidewalk_width_m": 0.8,
+      "slope_percent": 6,
+      "has_curb_ramp": "no",
+      "traffic_level": "high",
+      "lighting_quality": "poor",
+      "surface_quality": "broken",
+      "risk_score": 1.0,
+      "risk_level": "high",
+      "reasons": [
+        "Severe: clear width extremely narrow (< 0.9m) [below CPWD minimum 1.2m]",
+        "Caution: moderate gradient (> 5%) may reduce usability",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Context risk: high traffic exposure",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (broken)"
+      ]
+    },
+    {
+      "id": "block_103",
+      "name": "Coimbatore RS Puram 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            76.9569,
+            11.0097
+          ],
+          [
+            76.9577,
+            11.0104
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.2,
+      "slope_percent": 5,
+      "has_curb_ramp": "no",
+      "traffic_level": "medium",
+      "lighting_quality": "good",
+      "surface_quality": "uneven",
+      "risk_score": 0.5,
+      "risk_level": "medium",
+      "reasons": [
+        "Below recommended width (~1.5m preferred for comfortable passing)",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Non-compliant: surface not firm/even (uneven)"
+      ]
+    },
+    {
+      "id": "block_104",
+      "name": "Madurai Meenakshi Area 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            78.1191,
+            9.9195
+          ],
+          [
+            78.1199,
+            9.9202
+          ]
+        ]
+      },
+      "sidewalk_width_m": 0.9,
+      "slope_percent": 6,
+      "has_curb_ramp": "no",
+      "traffic_level": "high",
+      "lighting_quality": "poor",
+      "surface_quality": "broken",
+      "risk_score": 1.0,
+      "risk_level": "high",
+      "reasons": [
+        "Non-compliant: clear width below CPWD minimum (1.2m)",
+        "Caution: moderate gradient (> 5%) may reduce usability",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Context risk: high traffic exposure",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (broken)"
+      ]
+    },
+    {
+      "id": "block_105",
+      "name": "Hyderabad Abids 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            78.474,
+            17.3949
+          ],
+          [
+            78.4748,
+            17.3956
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.1,
+      "slope_percent": 6,
+      "has_curb_ramp": "no",
+      "traffic_level": "high",
+      "lighting_quality": "poor",
+      "surface_quality": "broken",
+      "risk_score": 1.0,
+      "risk_level": "high",
+      "reasons": [
+        "Non-compliant: clear width below CPWD minimum (1.2m)",
+        "Caution: moderate gradient (> 5%) may reduce usability",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Context risk: high traffic exposure",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (broken)"
+      ]
+    },
+    {
+      "id": "block_106",
+      "name": "Hyderabad Charminar 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            78.4747,
+            17.3617
+          ],
+          [
+            78.4755,
+            17.3624
+          ]
+        ]
+      },
+      "sidewalk_width_m": 0.8,
+      "slope_percent": 6,
+      "has_curb_ramp": "no",
+      "traffic_level": "high",
+      "lighting_quality": "poor",
+      "surface_quality": "broken",
+      "risk_score": 1.0,
+      "risk_level": "high",
+      "reasons": [
+        "Severe: clear width extremely narrow (< 0.9m) [below CPWD minimum 1.2m]",
+        "Caution: moderate gradient (> 5%) may reduce usability",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Context risk: high traffic exposure",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (broken)"
+      ]
+    },
+    {
+      "id": "block_107",
+      "name": "Warangal Hanamkonda 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            79.5316,
+            17.9802
+          ],
+          [
+            79.5324,
+            17.9809
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.0,
+      "slope_percent": 6,
+      "has_curb_ramp": "no",
+      "traffic_level": "medium",
+      "lighting_quality": "poor",
+      "surface_quality": "uneven",
+      "risk_score": 0.85,
+      "risk_level": "high",
+      "reasons": [
+        "Non-compliant: clear width below CPWD minimum (1.2m)",
+        "Caution: moderate gradient (> 5%) may reduce usability",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (uneven)"
+      ]
+    },
+    {
+      "id": "block_108",
+      "name": "Vijayawada Benz Circle 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.648,
+            16.506
+          ],
+          [
+            80.6488,
+            16.5067
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.1,
+      "slope_percent": 6,
+      "has_curb_ramp": "no",
+      "traffic_level": "high",
+      "lighting_quality": "poor",
+      "surface_quality": "uneven",
+      "risk_score": 0.95,
+      "risk_level": "high",
+      "reasons": [
+        "Non-compliant: clear width below CPWD minimum (1.2m)",
+        "Caution: moderate gradient (> 5%) may reduce usability",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Context risk: high traffic exposure",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (uneven)"
+      ]
+    },
+    {
+      "id": "block_109",
+      "name": "Visakhapatnam RK Beach 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            83.318,
+            17.711
+          ],
+          [
+            83.3188,
+            17.7117
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.4,
+      "slope_percent": 4,
+      "has_curb_ramp": "yes",
+      "traffic_level": "medium",
+      "lighting_quality": "good",
+      "surface_quality": "uneven",
+      "risk_score": 0.30000000000000004,
+      "risk_level": "low",
+      "reasons": [
+        "Below recommended width (~1.5m preferred for comfortable passing)",
+        "Non-compliant: surface not firm/even (uneven)"
+      ]
+    },
+    {
+      "id": "block_110",
+      "name": "Thiruvananthapuram East Fort 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            76.9507,
+            8.4861
+          ],
+          [
+            76.9515,
+            8.4868
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.0,
+      "slope_percent": 6,
+      "has_curb_ramp": "no",
+      "traffic_level": "high",
+      "lighting_quality": "poor",
+      "surface_quality": "broken",
+      "risk_score": 1.0,
+      "risk_level": "high",
+      "reasons": [
+        "Non-compliant: clear width below CPWD minimum (1.2m)",
+        "Caution: moderate gradient (> 5%) may reduce usability",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Context risk: high traffic exposure",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (broken)"
+      ]
+    },
+    {
+      "id": "block_111",
+      "name": "Kochi MG Road 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            76.285,
+            9.9708
+          ],
+          [
+            76.2858,
+            9.9715
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.2,
+      "slope_percent": 5,
+      "has_curb_ramp": "no",
+      "traffic_level": "high",
+      "lighting_quality": "poor",
+      "surface_quality": "uneven",
+      "risk_score": 0.7,
+      "risk_level": "high",
+      "reasons": [
+        "Below recommended width (~1.5m preferred for comfortable passing)",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Context risk: high traffic exposure",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (uneven)"
+      ]
+    },
+    {
+      "id": "block_112",
+      "name": "Kozhikode SM Street 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.7804,
+            11.2588
+          ],
+          [
+            75.7812,
+            11.2595
+          ]
+        ]
+      },
+      "sidewalk_width_m": 0.9,
+      "slope_percent": 6,
+      "has_curb_ramp": "no",
+      "traffic_level": "high",
+      "lighting_quality": "poor",
+      "surface_quality": "broken",
+      "risk_score": 1.0,
+      "risk_level": "high",
+      "reasons": [
+        "Non-compliant: clear width below CPWD minimum (1.2m)",
+        "Caution: moderate gradient (> 5%) may reduce usability",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Context risk: high traffic exposure",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (broken)"
+      ]
+    },
+    {
+      "id": "block_113",
+      "name": "Goa Panaji Market 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8278,
+            15.4909
+          ],
+          [
+            73.8286,
+            15.4916
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.1,
+      "slope_percent": 5,
+      "has_curb_ramp": "no",
+      "traffic_level": "medium",
+      "lighting_quality": "good",
+      "surface_quality": "uneven",
+      "risk_score": 0.65,
+      "risk_level": "medium",
+      "reasons": [
+        "Non-compliant: clear width below CPWD minimum (1.2m)",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Non-compliant: surface not firm/even (uneven)"
+      ]
+    },
+    {
+      "id": "block_114",
+      "name": "Margao Station Road 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.9581,
+            15.2757
+          ],
+          [
+            73.9589,
+            15.2764
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.0,
+      "slope_percent": 6,
+      "has_curb_ramp": "no",
+      "traffic_level": "high",
+      "lighting_quality": "poor",
+      "surface_quality": "uneven",
+      "risk_score": 0.95,
+      "risk_level": "high",
+      "reasons": [
+        "Non-compliant: clear width below CPWD minimum (1.2m)",
+        "Caution: moderate gradient (> 5%) may reduce usability",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Context risk: high traffic exposure",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (uneven)"
+      ]
+    },
+    {
+      "id": "block_115",
+      "name": "Amritsar Hall Bazar 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            74.8723,
+            31.6344
+          ],
+          [
+            74.8731,
+            31.6351
+          ]
+        ]
+      },
+      "sidewalk_width_m": 0.8,
+      "slope_percent": 6,
+      "has_curb_ramp": "no",
+      "traffic_level": "high",
+      "lighting_quality": "poor",
+      "surface_quality": "broken",
+      "risk_score": 1.0,
+      "risk_level": "high",
+      "reasons": [
+        "Severe: clear width extremely narrow (< 0.9m) [below CPWD minimum 1.2m]",
+        "Caution: moderate gradient (> 5%) may reduce usability",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Context risk: high traffic exposure",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (broken)"
+      ]
+    },
+    {
+      "id": "block_116",
+      "name": "Jammu Residency Road 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            74.8645,
+            32.7326
+          ],
+          [
+            74.8653,
+            32.7333
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.1,
+      "slope_percent": 6,
+      "has_curb_ramp": "no",
+      "traffic_level": "high",
+      "lighting_quality": "poor",
+      "surface_quality": "uneven",
+      "risk_score": 0.95,
+      "risk_level": "high",
+      "reasons": [
+        "Non-compliant: clear width below CPWD minimum (1.2m)",
+        "Caution: moderate gradient (> 5%) may reduce usability",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Context risk: high traffic exposure",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (uneven)"
+      ]
+    },
+    {
+      "id": "block_117",
+      "name": "Srinagar Lal Chowk 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            74.7973,
+            34.0677
+          ],
+          [
+            74.7981,
+            34.0684
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.0,
+      "slope_percent": 9,
+      "has_curb_ramp": "no",
+      "traffic_level": "medium",
+      "lighting_quality": "poor",
+      "surface_quality": "uneven",
+      "risk_score": 0.95,
+      "risk_level": "high",
+      "reasons": [
+        "Non-compliant: clear width below CPWD minimum (1.2m)",
+        "Non-compliant: gradient exceeds CPWD reference (1:12 \u2248 8.33%)",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (uneven)"
+      ]
+    },
+    {
+      "id": "block_118",
+      "name": "Shimla Mall Road 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.171,
+            31.1045
+          ],
+          [
+            77.1718,
+            31.1052
+          ]
+        ]
+      },
+      "sidewalk_width_m": 0.9,
+      "slope_percent": 11,
+      "has_curb_ramp": "no",
+      "traffic_level": "medium",
+      "lighting_quality": "poor",
+      "surface_quality": "uneven",
+      "risk_score": 1.0,
+      "risk_level": "high",
+      "reasons": [
+        "Non-compliant: clear width below CPWD minimum (1.2m)",
+        "Severe: gradient very high (> 10%) [exceeds CPWD reference 1:12 \u2248 8.33%]",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (uneven)"
+      ]
+    },
+    {
+      "id": "block_119",
+      "name": "Manali Main Street 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.1892,
+            32.2432
+          ],
+          [
+            77.19,
+            32.2439
+          ]
+        ]
+      },
+      "sidewalk_width_m": 0.9,
+      "slope_percent": 12,
+      "has_curb_ramp": "no",
+      "traffic_level": "medium",
+      "lighting_quality": "poor",
+      "surface_quality": "broken",
+      "risk_score": 1.0,
+      "risk_level": "high",
+      "reasons": [
+        "Non-compliant: clear width below CPWD minimum (1.2m)",
+        "Severe: gradient very high (> 10%) [exceeds CPWD reference 1:12 \u2248 8.33%]",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (broken)"
+      ]
+    },
+    {
+      "id": "block_120",
+      "name": "Dehradun Paltan Bazar 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            78.033,
+            30.3202
+          ],
+          [
+            78.0338,
+            30.3209
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.0,
+      "slope_percent": 6,
+      "has_curb_ramp": "no",
+      "traffic_level": "high",
+      "lighting_quality": "poor",
+      "surface_quality": "uneven",
+      "risk_score": 0.95,
+      "risk_level": "high",
+      "reasons": [
+        "Non-compliant: clear width below CPWD minimum (1.2m)",
+        "Caution: moderate gradient (> 5%) may reduce usability",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Context risk: high traffic exposure",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (uneven)"
+      ]
+    },
+    {
+      "id": "block_121",
+      "name": "Nainital Mall Road 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            79.4546,
+            29.3916
+          ],
+          [
+            79.4554,
+            29.3923
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.0,
+      "slope_percent": 10,
+      "has_curb_ramp": "no",
+      "traffic_level": "medium",
+      "lighting_quality": "poor",
+      "surface_quality": "uneven",
+      "risk_score": 0.95,
+      "risk_level": "high",
+      "reasons": [
+        "Non-compliant: clear width below CPWD minimum (1.2m)",
+        "Non-compliant: gradient exceeds CPWD reference (1:12 \u2248 8.33%)",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (uneven)"
+      ]
+    },
+    {
+      "id": "block_122",
+      "name": "Jaipur Malviya Nagar 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.8103,
+            26.8518
+          ],
+          [
+            75.8111,
+            26.8525
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.3,
+      "slope_percent": 5,
+      "has_curb_ramp": "yes",
+      "traffic_level": "high",
+      "lighting_quality": "good",
+      "surface_quality": "uneven",
+      "risk_score": 0.4,
+      "risk_level": "medium",
+      "reasons": [
+        "Below recommended width (~1.5m preferred for comfortable passing)",
+        "Context risk: high traffic exposure",
+        "Non-compliant: surface not firm/even (uneven)"
+      ]
+    },
+    {
+      "id": "block_123",
+      "name": "Ludhiana Clock Tower 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.8573,
+            30.901
+          ],
+          [
+            75.8581,
+            30.9017
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.0,
+      "slope_percent": 6,
+      "has_curb_ramp": "no",
+      "traffic_level": "high",
+      "lighting_quality": "poor",
+      "surface_quality": "broken",
+      "risk_score": 1.0,
+      "risk_level": "high",
+      "reasons": [
+        "Non-compliant: clear width below CPWD minimum (1.2m)",
+        "Caution: moderate gradient (> 5%) may reduce usability",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Context risk: high traffic exposure",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (broken)"
+      ]
+    },
+    {
+      "id": "block_124",
+      "name": "Meerut Begum Bridge 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.706,
+            28.9821
+          ],
+          [
+            77.7068,
+            28.9828
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.1,
+      "slope_percent": 6,
+      "has_curb_ramp": "no",
+      "traffic_level": "high",
+      "lighting_quality": "poor",
+      "surface_quality": "uneven",
+      "risk_score": 0.95,
+      "risk_level": "high",
+      "reasons": [
+        "Non-compliant: clear width below CPWD minimum (1.2m)",
+        "Caution: moderate gradient (> 5%) may reduce usability",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Context risk: high traffic exposure",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (uneven)"
+      ]
+    },
+    {
+      "id": "block_125",
+      "name": "Agra Sadar Bazaar 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            78.0107,
+            27.1574
+          ],
+          [
+            78.0115,
+            27.1581
+          ]
+        ]
+      },
+      "sidewalk_width_m": 0.9,
+      "slope_percent": 6,
+      "has_curb_ramp": "no",
+      "traffic_level": "high",
+      "lighting_quality": "poor",
+      "surface_quality": "broken",
+      "risk_score": 1.0,
+      "risk_level": "high",
+      "reasons": [
+        "Non-compliant: clear width below CPWD minimum (1.2m)",
+        "Caution: moderate gradient (> 5%) may reduce usability",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Context risk: high traffic exposure",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (broken)"
+      ]
+    },
+    {
+      "id": "block_126",
+      "name": "Prayagraj Civil Lines 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.8333,
+            25.4483
+          ],
+          [
+            81.8341,
+            25.449
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.2,
+      "slope_percent": 5,
+      "has_curb_ramp": "no",
+      "traffic_level": "high",
+      "lighting_quality": "poor",
+      "surface_quality": "uneven",
+      "risk_score": 0.7,
+      "risk_level": "high",
+      "reasons": [
+        "Below recommended width (~1.5m preferred for comfortable passing)",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Context risk: high traffic exposure",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (uneven)"
+      ]
+    },
+    {
+      "id": "block_127",
+      "name": "Ranchi Main Road 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            85.3246,
+            23.37
+          ],
+          [
+            85.3254,
+            23.3707
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.0,
+      "slope_percent": 6,
+      "has_curb_ramp": "no",
+      "traffic_level": "high",
+      "lighting_quality": "poor",
+      "surface_quality": "uneven",
+      "risk_score": 0.95,
+      "risk_level": "high",
+      "reasons": [
+        "Non-compliant: clear width below CPWD minimum (1.2m)",
+        "Caution: moderate gradient (> 5%) may reduce usability",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Context risk: high traffic exposure",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (uneven)"
+      ]
+    },
+    {
+      "id": "block_128",
+      "name": "Jamshedpur Sakchi 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            86.203,
+            22.8
+          ],
+          [
+            86.2038,
+            22.8007
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.1,
+      "slope_percent": 6,
+      "has_curb_ramp": "no",
+      "traffic_level": "high",
+      "lighting_quality": "poor",
+      "surface_quality": "uneven",
+      "risk_score": 0.95,
+      "risk_level": "high",
+      "reasons": [
+        "Non-compliant: clear width below CPWD minimum (1.2m)",
+        "Caution: moderate gradient (> 5%) may reduce usability",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Context risk: high traffic exposure",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (uneven)"
+      ]
+    },
+    {
+      "id": "block_129",
+      "name": "Thane Station Road 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.9753,
+            19.1866
+          ],
+          [
+            72.9761,
+            19.1873
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.0,
+      "slope_percent": 6,
+      "has_curb_ramp": "no",
+      "traffic_level": "high",
+      "lighting_quality": "poor",
+      "surface_quality": "broken",
+      "risk_score": 1.0,
+      "risk_level": "high",
+      "reasons": [
+        "Non-compliant: clear width below CPWD minimum (1.2m)",
+        "Caution: moderate gradient (> 5%) may reduce usability",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Context risk: high traffic exposure",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (broken)"
+      ]
+    },
+    {
+      "id": "block_130",
+      "name": "Navi Mumbai Vashi 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.9972,
+            19.0747
+          ],
+          [
+            72.998,
+            19.0754
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.3,
+      "slope_percent": 5,
+      "has_curb_ramp": "yes",
+      "traffic_level": "high",
+      "lighting_quality": "good",
+      "surface_quality": "uneven",
+      "risk_score": 0.4,
+      "risk_level": "medium",
+      "reasons": [
+        "Below recommended width (~1.5m preferred for comfortable passing)",
+        "Context risk: high traffic exposure",
+        "Non-compliant: surface not firm/even (uneven)"
+      ]
+    },
+    {
+      "id": "block_131",
+      "name": "Pune Kothrud 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.8077,
+            18.5077
+          ],
+          [
+            73.8085,
+            18.5084
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.4,
+      "slope_percent": 4,
+      "has_curb_ramp": "yes",
+      "traffic_level": "medium",
+      "lighting_quality": "good",
+      "surface_quality": "uneven",
+      "risk_score": 0.30000000000000004,
+      "risk_level": "low",
+      "reasons": [
+        "Below recommended width (~1.5m preferred for comfortable passing)",
+        "Non-compliant: surface not firm/even (uneven)"
+      ]
+    },
+    {
+      "id": "block_132",
+      "name": "Chennai Velachery 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.221,
+            12.9757
+          ],
+          [
+            80.2218,
+            12.9764
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.2,
+      "slope_percent": 5,
+      "has_curb_ramp": "no",
+      "traffic_level": "high",
+      "lighting_quality": "poor",
+      "surface_quality": "uneven",
+      "risk_score": 0.7,
+      "risk_level": "high",
+      "reasons": [
+        "Below recommended width (~1.5m preferred for comfortable passing)",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Context risk: high traffic exposure",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (uneven)"
+      ]
+    },
+    {
+      "id": "block_133",
+      "name": "Bengaluru Jayanagar 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.5835,
+            12.9279
+          ],
+          [
+            77.5843,
+            12.9286
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.5,
+      "slope_percent": 3,
+      "has_curb_ramp": "yes",
+      "traffic_level": "medium",
+      "lighting_quality": "good",
+      "surface_quality": "smooth",
+      "risk_score": 0.1,
+      "risk_level": "low",
+      "reasons": [
+        "No major accessibility violations detected (based on available data)."
+      ]
+    },
+    {
+      "id": "block_134",
+      "name": "Hyderabad Gachibowli 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            78.3488,
+            17.4403
+          ],
+          [
+            78.3496,
+            17.441
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.4,
+      "slope_percent": 4,
+      "has_curb_ramp": "yes",
+      "traffic_level": "high",
+      "lighting_quality": "good",
+      "surface_quality": "uneven",
+      "risk_score": 0.4,
+      "risk_level": "medium",
+      "reasons": [
+        "Below recommended width (~1.5m preferred for comfortable passing)",
+        "Context risk: high traffic exposure",
+        "Non-compliant: surface not firm/even (uneven)"
+      ]
+    },
+    {
+      "id": "block_135",
+      "name": "Kolkata Salt Lake 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            88.4171,
+            22.5867
+          ],
+          [
+            88.4179,
+            22.5874
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.6,
+      "slope_percent": 3,
+      "has_curb_ramp": "yes",
+      "traffic_level": "medium",
+      "lighting_quality": "good",
+      "surface_quality": "smooth",
+      "risk_score": 0.1,
+      "risk_level": "low",
+      "reasons": [
+        "No major accessibility violations detected (based on available data)."
+      ]
+    },
+    {
+      "id": "block_136",
+      "name": "Chennai Anna Nagar 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.2101,
+            13.0878
+          ],
+          [
+            80.2109,
+            13.0885
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.4,
+      "slope_percent": 4,
+      "has_curb_ramp": "yes",
+      "traffic_level": "medium",
+      "lighting_quality": "good",
+      "surface_quality": "uneven",
+      "risk_score": 0.30000000000000004,
+      "risk_level": "low",
+      "reasons": [
+        "Below recommended width (~1.5m preferred for comfortable passing)",
+        "Non-compliant: surface not firm/even (uneven)"
+      ]
+    },
+    {
+      "id": "block_137",
+      "name": "Bhopal New Market 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.4019,
+            23.2338
+          ],
+          [
+            77.4027,
+            23.2345
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.1,
+      "slope_percent": 6,
+      "has_curb_ramp": "no",
+      "traffic_level": "high",
+      "lighting_quality": "poor",
+      "surface_quality": "broken",
+      "risk_score": 1.0,
+      "risk_level": "high",
+      "reasons": [
+        "Non-compliant: clear width below CPWD minimum (1.2m)",
+        "Caution: moderate gradient (> 5%) may reduce usability",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Context risk: high traffic exposure",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (broken)"
+      ]
+    },
+    {
+      "id": "block_138",
+      "name": "Indore Vijay Nagar 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.8937,
+            22.7532
+          ],
+          [
+            75.8945,
+            22.7539
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.3,
+      "slope_percent": 5,
+      "has_curb_ramp": "yes",
+      "traffic_level": "high",
+      "lighting_quality": "good",
+      "surface_quality": "uneven",
+      "risk_score": 0.4,
+      "risk_level": "medium",
+      "reasons": [
+        "Below recommended width (~1.5m preferred for comfortable passing)",
+        "Context risk: high traffic exposure",
+        "Non-compliant: surface not firm/even (uneven)"
+      ]
+    },
+    {
+      "id": "block_139",
+      "name": "Coimbatore Gandhipuram 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            76.9675,
+            11.0178
+          ],
+          [
+            76.9683,
+            11.0185
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.0,
+      "slope_percent": 6,
+      "has_curb_ramp": "no",
+      "traffic_level": "high",
+      "lighting_quality": "poor",
+      "surface_quality": "uneven",
+      "risk_score": 0.95,
+      "risk_level": "high",
+      "reasons": [
+        "Non-compliant: clear width below CPWD minimum (1.2m)",
+        "Caution: moderate gradient (> 5%) may reduce usability",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Context risk: high traffic exposure",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (uneven)"
+      ]
+    },
+    {
+      "id": "block_140",
+      "name": "Kochi Fort Kochi 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            76.2422,
+            9.9656
+          ],
+          [
+            76.243,
+            9.9663
+          ]
+        ]
+      },
+      "sidewalk_width_m": 0.9,
+      "slope_percent": 6,
+      "has_curb_ramp": "no",
+      "traffic_level": "medium",
+      "lighting_quality": "poor",
+      "surface_quality": "uneven",
+      "risk_score": 0.85,
+      "risk_level": "high",
+      "reasons": [
+        "Non-compliant: clear width below CPWD minimum (1.2m)",
+        "Caution: moderate gradient (> 5%) may reduce usability",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (uneven)"
+      ]
+    },
+    {
+      "id": "block_141",
+      "name": "Guwahati GS Road 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            91.789,
+            26.1448
+          ],
+          [
+            91.7898,
+            26.1455
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.2,
+      "slope_percent": 5,
+      "has_curb_ramp": "no",
+      "traffic_level": "high",
+      "lighting_quality": "poor",
+      "surface_quality": "uneven",
+      "risk_score": 0.7,
+      "risk_level": "high",
+      "reasons": [
+        "Below recommended width (~1.5m preferred for comfortable passing)",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Context risk: high traffic exposure",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (uneven)"
+      ]
+    },
+    {
+      "id": "block_142",
+      "name": "Shillong Laitumkhrah 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            91.8914,
+            25.5673
+          ],
+          [
+            91.8922,
+            25.568
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.0,
+      "slope_percent": 10,
+      "has_curb_ramp": "no",
+      "traffic_level": "medium",
+      "lighting_quality": "poor",
+      "surface_quality": "uneven",
+      "risk_score": 0.95,
+      "risk_level": "high",
+      "reasons": [
+        "Non-compliant: clear width below CPWD minimum (1.2m)",
+        "Non-compliant: gradient exceeds CPWD reference (1:12 \u2248 8.33%)",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (uneven)"
+      ]
+    },
+    {
+      "id": "block_143",
+      "name": "Shimla Ridge 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.1736,
+            31.104
+          ],
+          [
+            77.1744,
+            31.1047
+          ]
+        ]
+      },
+      "sidewalk_width_m": 0.9,
+      "slope_percent": 11,
+      "has_curb_ramp": "no",
+      "traffic_level": "medium",
+      "lighting_quality": "poor",
+      "surface_quality": "broken",
+      "risk_score": 1.0,
+      "risk_level": "high",
+      "reasons": [
+        "Non-compliant: clear width below CPWD minimum (1.2m)",
+        "Severe: gradient very high (> 10%) [exceeds CPWD reference 1:12 \u2248 8.33%]",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (broken)"
+      ]
+    },
+    {
+      "id": "block_144",
+      "name": "Srinagar Dal Gate 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            74.8301,
+            34.0831
+          ],
+          [
+            74.8309,
+            34.0838
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.0,
+      "slope_percent": 9,
+      "has_curb_ramp": "no",
+      "traffic_level": "medium",
+      "lighting_quality": "poor",
+      "surface_quality": "uneven",
+      "risk_score": 0.95,
+      "risk_level": "high",
+      "reasons": [
+        "Non-compliant: clear width below CPWD minimum (1.2m)",
+        "Non-compliant: gradient exceeds CPWD reference (1:12 \u2248 8.33%)",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (uneven)"
+      ]
+    },
+    {
+      "id": "block_145",
+      "name": "Varanasi Godowlia 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            83.0061,
+            25.3106
+          ],
+          [
+            83.0069,
+            25.3113
+          ]
+        ]
+      },
+      "sidewalk_width_m": 0.7,
+      "slope_percent": 8,
+      "has_curb_ramp": "no",
+      "traffic_level": "high",
+      "lighting_quality": "poor",
+      "surface_quality": "broken",
+      "risk_score": 1.0,
+      "risk_level": "high",
+      "reasons": [
+        "Severe: clear width extremely narrow (< 0.9m) [below CPWD minimum 1.2m]",
+        "Caution: moderate gradient (> 5%) may reduce usability",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Context risk: high traffic exposure",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (broken)"
+      ]
+    },
+    {
+      "id": "block_146",
+      "name": "Patna Kankarbagh 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            85.1621,
+            25.593
+          ],
+          [
+            85.1629,
+            25.5937
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.1,
+      "slope_percent": 6,
+      "has_curb_ramp": "no",
+      "traffic_level": "high",
+      "lighting_quality": "poor",
+      "surface_quality": "uneven",
+      "risk_score": 0.95,
+      "risk_level": "high",
+      "reasons": [
+        "Non-compliant: clear width below CPWD minimum (1.2m)",
+        "Caution: moderate gradient (> 5%) may reduce usability",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Context risk: high traffic exposure",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (uneven)"
+      ]
+    },
+    {
+      "id": "block_147",
+      "name": "Jaipur Mansarovar 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.7641,
+            26.8474
+          ],
+          [
+            75.7649,
+            26.8481
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.2,
+      "slope_percent": 5,
+      "has_curb_ramp": "no",
+      "traffic_level": "high",
+      "lighting_quality": "poor",
+      "surface_quality": "uneven",
+      "risk_score": 0.7,
+      "risk_level": "high",
+      "reasons": [
+        "Below recommended width (~1.5m preferred for comfortable passing)",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Context risk: high traffic exposure",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (uneven)"
+      ]
+    },
+    {
+      "id": "block_148",
+      "name": "Delhi Saket 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.2066,
+            28.5245
+          ],
+          [
+            77.2074,
+            28.5252
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.4,
+      "slope_percent": 4,
+      "has_curb_ramp": "yes",
+      "traffic_level": "high",
+      "lighting_quality": "good",
+      "surface_quality": "uneven",
+      "risk_score": 0.4,
+      "risk_level": "medium",
+      "reasons": [
+        "Below recommended width (~1.5m preferred for comfortable passing)",
+        "Context risk: high traffic exposure",
+        "Non-compliant: surface not firm/even (uneven)"
+      ]
+    },
+    {
+      "id": "block_149",
+      "name": "Bengaluru Indiranagar 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.6408,
+            12.9717
+          ],
+          [
+            77.6416,
+            12.9724
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.3,
+      "slope_percent": 5,
+      "has_curb_ramp": "yes",
+      "traffic_level": "high",
+      "lighting_quality": "good",
+      "surface_quality": "uneven",
+      "risk_score": 0.4,
+      "risk_level": "medium",
+      "reasons": [
+        "Below recommended width (~1.5m preferred for comfortable passing)",
+        "Context risk: high traffic exposure",
+        "Non-compliant: surface not firm/even (uneven)"
+      ]
+    },
+    {
+      "id": "block_150",
+      "name": "Chennai Egmore 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.2615,
+            13.0782
+          ],
+          [
+            80.2623,
+            13.0789
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.0,
+      "slope_percent": 6,
+      "has_curb_ramp": "no",
+      "traffic_level": "high",
+      "lighting_quality": "poor",
+      "surface_quality": "broken",
+      "risk_score": 1.0,
+      "risk_level": "high",
+      "reasons": [
+        "Non-compliant: clear width below CPWD minimum (1.2m)",
+        "Caution: moderate gradient (> 5%) may reduce usability",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Context risk: high traffic exposure",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (broken)"
+      ]
+    },
+    {
+      "id": "block_151",
+      "name": "Hyderabad Secunderabad 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            78.4983,
+            17.4399
+          ],
+          [
+            78.4991,
+            17.4406
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.1,
+      "slope_percent": 6,
+      "has_curb_ramp": "no",
+      "traffic_level": "high",
+      "lighting_quality": "poor",
+      "surface_quality": "uneven",
+      "risk_score": 0.95,
+      "risk_level": "high",
+      "reasons": [
+        "Non-compliant: clear width below CPWD minimum (1.2m)",
+        "Caution: moderate gradient (> 5%) may reduce usability",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Context risk: high traffic exposure",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (uneven)"
+      ]
+    },
+    {
+      "id": "block_152",
+      "name": "Kolkata Park Street 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            88.3511,
+            22.5537
+          ],
+          [
+            88.3519,
+            22.5544
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.1,
+      "slope_percent": 6,
+      "has_curb_ramp": "no",
+      "traffic_level": "high",
+      "lighting_quality": "poor",
+      "surface_quality": "uneven",
+      "risk_score": 0.95,
+      "risk_level": "high",
+      "reasons": [
+        "Non-compliant: clear width below CPWD minimum (1.2m)",
+        "Caution: moderate gradient (> 5%) may reduce usability",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Context risk: high traffic exposure",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (uneven)"
+      ]
+    },
+    {
+      "id": "block_153",
+      "name": "Pune Hadapsar 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            73.925,
+            18.5083
+          ],
+          [
+            73.9258,
+            18.509
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.0,
+      "slope_percent": 6,
+      "has_curb_ramp": "no",
+      "traffic_level": "high",
+      "lighting_quality": "poor",
+      "surface_quality": "broken",
+      "risk_score": 1.0,
+      "risk_level": "high",
+      "reasons": [
+        "Non-compliant: clear width below CPWD minimum (1.2m)",
+        "Caution: moderate gradient (> 5%) may reduce usability",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Context risk: high traffic exposure",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (broken)"
+      ]
+    },
+    {
+      "id": "block_154",
+      "name": "Mumbai Borivali 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.8567,
+            19.23
+          ],
+          [
+            72.8575,
+            19.2307
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.1,
+      "slope_percent": 6,
+      "has_curb_ramp": "no",
+      "traffic_level": "high",
+      "lighting_quality": "poor",
+      "surface_quality": "uneven",
+      "risk_score": 0.95,
+      "risk_level": "high",
+      "reasons": [
+        "Non-compliant: clear width below CPWD minimum (1.2m)",
+        "Caution: moderate gradient (> 5%) may reduce usability",
+        "Non-compliant: missing curb ramp at crossing (accessibility barrier)",
+        "Context risk: high traffic exposure",
+        "Safety risk: inadequate pedestrian lighting",
+        "Non-compliant: surface not firm/even (uneven)"
+      ]
+    },
+    {
+      "id": "block_155",
+      "name": "Ahmedabad Satellite 1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.5193,
+            23.0275
+          ],
+          [
+            72.5201,
+            23.0282
+          ]
+        ]
+      },
+      "sidewalk_width_m": 1.3,
+      "slope_percent": 5,
+      "has_curb_ramp": "yes",
+      "traffic_level": "high",
+      "lighting_quality": "good",
+      "surface_quality": "uneven",
+      "risk_score": 0.4,
+      "risk_level": "medium",
+      "reasons": [
+        "Below recommended width (~1.5m preferred for comfortable passing)",
+        "Context risk: high traffic exposure",
+        "Non-compliant: surface not firm/even (uneven)"
+      ]
+    }
+  ]
+}
