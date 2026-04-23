@@ -20,7 +20,7 @@ function App() {
   const [activeTab, setActiveTab] = useState("map"); // map | insights | comparison | budget
 
   useEffect(() => {
-    const backendUrl = import.meta.env.DEV ? "http://127.0.0.1:8000/api" : "/api";
+    const backendUrl = import.meta.env.VITE_API_URL || "http://127.0.0.1:8000/api";
 
     fetch(`${backendUrl}/health`)
       .then((res) => res.json())

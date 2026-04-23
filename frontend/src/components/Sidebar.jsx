@@ -2,7 +2,7 @@ import React, { useEffect, useMemo, useRef, useState } from "react";
 import { computeCompliance } from "../utils/compliance";
 import jsPDF from "jspdf";
 
-const backendUrl = import.meta.env.DEV ? "http://127.0.0.1:8000/api" : "/api"; // same as App
+const backendUrl = import.meta.env.VITE_API_URL || "http://127.0.0.1:8000/api";
 
 const Sidebar = ({
   selectedFilter,

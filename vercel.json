@@ -1,8 +1,3 @@
 {
-  "outputDirectory": "frontend/dist",
-  "functions": {
-    "api/index.py": {
-      "includeFiles": "backend/data/**"
-    }
-  }
+  "outputDirectory": "frontend/dist"
 }
