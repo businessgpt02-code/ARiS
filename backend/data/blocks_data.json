@@ -2774,17 +2774,17 @@
     },
     {
       "id": "block_90",
-      "name": "Guwahati Paltan Bazar 1",
+      "name": "Delhi Paharganj Main Bazaar 1",
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [
-            91.7497,
-            26.1797
+            77.2167,
+            28.643
           ],
           [
-            91.7505,
-            26.1804
+            77.2175,
+            28.6437
           ]
         ]
       },
@@ -2807,17 +2807,17 @@
     },
     {
       "id": "block_91",
-      "name": "Shillong Police Bazar 1",
+      "name": "Delhi Lajpat Nagar Central Market 1",
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [
-            91.8822,
-            25.5745
+            77.2433,
+            28.5677
           ],
           [
-            91.883,
-            25.5752
+            77.2441,
+            28.5684
           ]
         ]
       },
@@ -2839,17 +2839,17 @@
     },
     {
       "id": "block_92",
-      "name": "Imphal Main Market 1",
+      "name": "Delhi Sarojini Nagar Market 1",
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [
-            93.9368,
-            24.817
+            77.1967,
+            28.5765
           ],
           [
-            93.9376,
-            24.8177
+            77.1975,
+            28.5772
           ]
         ]
       },
@@ -2872,17 +2872,17 @@
     },
     {
       "id": "block_93",
-      "name": "Aizawl City Center 1",
+      "name": "Delhi Nehru Place Commercial Hub 1",
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [
-            92.7183,
-            23.7312
+            77.2513,
+            28.5494
           ],
           [
-            92.7191,
-            23.7319
+            77.2521,
+            28.5501
           ]
         ]
       },
@@ -2904,17 +2904,17 @@
     },
     {
       "id": "block_94",
-      "name": "Kohima Main Town 1",
+      "name": "Delhi Rajiv Chowk Inner Circle 2",
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [
-            94.1106,
-            25.675
+            77.2197,
+            28.6328
           ],
           [
-            94.1114,
-            25.6757
+            77.2205,
+            28.6335
           ]
         ]
       },
@@ -4397,17 +4397,17 @@
     },
     {
       "id": "block_141",
-      "name": "Guwahati GS Road 1",
+      "name": "Delhi Ring Road South Extension 1",
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [
-            91.789,
-            26.1448
+            77.2206,
+            28.5734
           ],
           [
-            91.7898,
-            26.1455
+            77.2214,
+            28.5741
           ]
         ]
       },
@@ -4429,17 +4429,17 @@
     },
     {
       "id": "block_142",
-      "name": "Shillong Laitumkhrah 1",
+      "name": "Delhi Hauz Khas Village Street 1",
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [
-            91.8914,
-            25.5673
+            77.1947,
+            28.5536
           ],
           [
-            91.8922,
-            25.568
+            77.1955,
+            28.5543
           ]
         ]
       },
